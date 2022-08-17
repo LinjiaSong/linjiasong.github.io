@@ -1,7 +1,7 @@
 ---
 layout: home
 profile_picture:
-  src: /assets/img/profile-pic.jpg
+  src: /assets/img/phto_song.jpg
   alt: website picture
 ---
 
@@ -10,10 +10,18 @@ profile_picture:
 </p>
 
 <p>
+  我毕业于香港中文大学商学院（金融与房地产方向），我的研究兴趣为实证资产定价，衍生品，房地产金融等。
+</p>
+
+<p>
 Contact Information:
+</p>
 
+<p>
 Email: slinjia@link.cuhk.edu.hk |  songlinjia@hotmail.com
+</p>
 
+<p>
 Phone: (+852) 92980572
 </p>
 
