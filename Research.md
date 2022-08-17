@@ -4,7 +4,7 @@ title: Research
 slug: /Research
 ---
 <p>
-1. In Searcg of a Factor Model for Option Returns (with Turan Bali, Jie Cao, and Xintong Zhan) (Job market paper)
+1. In Search of a Factor Model for Option Returns (with Turan Bali, Jie Cao, and Xintong Zhan) (Job market paper)
 </p>
 
 <p>
