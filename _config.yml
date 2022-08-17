@@ -11,7 +11,7 @@ url: "https://linjiasong.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
-header: Linjia Song #change here
+header: 
   pages:
     - name: Home
       slug: /
@@ -19,7 +19,7 @@ header: Linjia Song #change here
     - name: Research
 
 footer:
-  show_powered_by: true
+  show_powered_by: false
   contact:
     - name: Email
       value: songlinjia@hotmail.com
