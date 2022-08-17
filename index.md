@@ -5,7 +5,7 @@ profile_picture:
   alt: website picture
 ---
 
-**Song Linjia 宋琳甲**
+**Song Linjia  宋琳甲**
 <p>
   Welcome! I'm a fourth-year Ph.D. Candidate in Business Administration (Finance and Real Estate) from CUHK Business School, Chinese University of Hong Kong. My research interests are in empirical asset pricing, derivatives, and real estate finance.
 </p>
@@ -18,7 +18,7 @@ profile_picture:
 </p>
 
 
-**Contact Information**:
+**Contact Information:**
 
 <p>
 Email:    <a href="mailto: slinjia@link.cuhk.edu.hk">slinjia@link.cuhk.edu.hk</a>  | <a href="mailto: songlinjia@hotmail.com">songlinjia@hotmail.com</a> 
@@ -26,7 +26,7 @@ Email:    <a href="mailto: slinjia@link.cuhk.edu.hk">slinjia@link.cuhk.edu.hk</a
 
 
 
-**Education**:
+**Education:**
 
 
 
@@ -47,7 +47,7 @@ B.Sc. in Economics, 2014 - 2018
 </p>
 
 
-**Research**：
+**Research:**
 
 <p>
 1.	In Search of a Factor Model for Option Returns (with Turan Bali, Jie Cao, and Xintong Zhan)
