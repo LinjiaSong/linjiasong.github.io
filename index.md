@@ -6,7 +6,7 @@ profile_picture:
 ---
 
 <p>
-  Welcome! I'm a fourth-year Ph.D. Candidate in Business Administration (Finance and Real Estate) from CUHK Business School, Chinese University of Hong Kong. My research interests are in empirical asset pricing, derivatives, and real estate finance <a href="http://dangrover.com">website</a>.
+  Welcome! I'm a fourth-year Ph.D. Candidate in Business Administration (Finance and Real Estate) from CUHK Business School, Chinese University of Hong Kong. My research interests are in empirical asset pricing, derivatives, and real estate finance.
 </p>
 
 <p>
@@ -30,6 +30,4 @@ Phone: (+852) 92980572
 </p>
 
 
-<p>
-  You can find the source code and the instructions on <a href="https://github.com/eliottvincent/bay">GitHub</a>.
-</p>
+
