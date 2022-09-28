@@ -3,11 +3,11 @@
 
 
 
-title: Linjia
+title: Xintong
 description: >- # this means to ignore newlines until "baseurl:"
-  Linjia Song.
+  Xintong Zhan.
 # baseurl: "/Lin" # the subpath of the site  #bay
-url: "https://linjiasong.github.io" # the base hostname & protocol for the site
+url: "https://xintongzhan.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 #google_analytics: "UA-121636368-3"
 
@@ -22,8 +22,8 @@ footer:
   show_powered_by: false
   contact:
     - name: Email
-      value: songlinjia@hotmail.com
-      link: mailto:songlinjia@hotmail.com
+      value: xintongzhan@hotmail.com
+      link: mailto:xintongzhan@hotmail.com
   follow:
     - name: LinkedIn
       link: http://linkedin.com/in/YourLinkedInUsername
