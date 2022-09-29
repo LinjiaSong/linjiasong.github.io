@@ -16,7 +16,7 @@ profile_picture:
 
 电话: +86 21 2501-1068
 
-Email: <a href="mailto: xintongzhan@fudan.edu.cn">xintongzhan@fudan.edu.cn</a>  | <a href="mailto: xintongzhan@hotmail.com">xintongzhan@hotmail.com</a> 
+Email: <a href="mailto: xintongzhan@fudan.edu.cn">xintongzhan@fudan.edu.cn</a>  $\vert$  <a href="mailto: xintongzhan@hotmail.com">xintongzhan@hotmail.com</a> 
 
 简历 | 复旦网页 | 领英 | ORCiD
 
