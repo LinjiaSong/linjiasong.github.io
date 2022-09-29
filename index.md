@@ -17,11 +17,11 @@ profile_picture:
 
 电话: +86 21 2501-1068
 
-Email: <a href="mailto: xintongzhan@fudan.edu.cn">xintongzhan@fudan.edu.cn</a>  | <a href="mailto: xintongzhan@hotmail.com">xintongzhan@hotmail.com</a> 
+Email: <a href="mailto: xintongzhan@fudan.edu.cn">xintongzhan@fudan.edu.cn</a>  / <a href="mailto: xintongzhan@hotmail.com">xintongzhan@hotmail.com</a> 
 
-<a href="https://www.dropbox.com/s/b5ny7snsjssflmj/CV_Web.pdf?dl=0">简历</a> | <a href="https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012509">复旦网页</a> | <a href="https://hk.linkedin.com/in/xintong-zhan">领英</a> | <a href="https://orcid.org/0000-0003-2787-4464">ORCiD</a>
+<a href="https://www.dropbox.com/s/b5ny7snsjssflmj/CV_Web.pdf?dl=0">简历</a> / <a href="https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012509">复旦网页</a> / <a href="https://hk.linkedin.com/in/xintong-zhan">领英</a> / <a href="https://orcid.org/0000-0003-2787-4464">ORCiD</a>
 
-<a href="https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en">Google Scholar个人页面</a> | <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2108195">SSRN个人页面</a> 
+<a href="https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en">Google Scholar个人页面</a> / <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2108195">SSRN个人页面</a> 
 
 
 
@@ -36,18 +36,18 @@ Email: <a href="mailto: xintongzhan@fudan.edu.cn">xintongzhan@fudan.edu.cn</a>  
 
 **教育背景**
 
-2012.08 – 2016.07	香港中文大学商学院		金融学	博士学位
+2012.08 – 2016.07	 香港中文大学商学院		金融学  	博士学位
 
-2008.09 – 2012.07	北京大学光华管理学院	金融学	学士学位
+2008.09 – 2012.07	 北京大学光华管理学院	 金融学	 学士学位
 
 
 **学术经历**
 
-2022.01 至今		复旦大学管理学院				金融学讲席教授
+2022.01 至今		    复旦大学管理学院				        金融学讲席教授
 
-2018.08 – 2021.12	香港中文大学商学院				金融学及房地产联席助理教授
+2018.08 – 2021.12  香港中文大学商学院				       金融学及房地产联席助理教授
 
-2016.09 – 2018.07	荷兰鹿特丹伊拉斯姆斯大学经济学院	金融学助理教授	
+2016.09 – 2018.07	 荷兰鹿特丹伊拉斯姆斯大学经济学院	 金融学助理教授	
 
 
 **论文发表**
