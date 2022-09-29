@@ -17,7 +17,7 @@ profile_picture:
 
 电话: +86 21 2501-1068
 
-Email: <a href="mailto: xintongzhan@fudan.edu.cn">xintongzhan@fudan.edu.cn</a>  || <a href="mailto: xintongzhan@hotmail.com">xintongzhan@hotmail.com</a> 
+Email: <a href="mailto: xintongzhan@fudan.edu.cn">xintongzhan@fudan.edu.cn</a>  | <a href="mailto: xintongzhan@hotmail.com">xintongzhan@hotmail.com</a> 
 
 <a href="https://www.dropbox.com/s/b5ny7snsjssflmj/CV_Web.pdf?dl=0">简历</a> | <a href="https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012509">复旦网页</a> | <a href="https://hk.linkedin.com/in/xintong-zhan">领英</a> | <a href="https://orcid.org/0000-0003-2787-4464">ORCiD</a>
 
