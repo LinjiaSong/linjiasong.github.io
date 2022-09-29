@@ -20,7 +20,7 @@ profile_picture:
 
 ### [简历](https://www.dropbox.com/s/b5ny7snsjssflmj/CV_Web.pdf?dl=0)/[复旦网页](https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012509)/[领英](https://hk.linkedin.com/in/xintong-zhan)/[ORCiD](https://orcid.org/0000-0003-2787-4464)
 
-### [Google Scholar个人页面](https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en)/[SSRN个人页面](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2108195)
+### [Google Site英文个人网页](https://sites.google.com/view/xintongzhan/home?authuser=0)/[Google Scholar个人页面](https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en)/[SSRN个人页面](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2108195)
 
 ## 个人简介
 
