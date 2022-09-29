@@ -17,15 +17,12 @@ profile_picture:
 
 电话: +86 21 2501-1068
 
-Email: <a href="mailto: xintongzhan@fudan.edu.cn">xintongzhan@fudan.edu.cn</a>  / <a href="mailto: xintongzhan@hotmail.com">xintongzhan@hotmail.com</a> 
 
-<a href="https://www.dropbox.com/s/b5ny7snsjssflmj/CV_Web.pdf?dl=0">简历</a> / <a href="https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012509">复旦网页</a> / <a href="https://hk.linkedin.com/in/xintong-zhan">领英</a> / <a href="https://orcid.org/0000-0003-2787-4464">ORCiD</a>
+[简历](https://www.dropbox.com/s/b5ny7snsjssflmj/CV_Web.pdf?dl=0)/[复旦网页](https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012509)/[领英](https://hk.linkedin.com/in/xintong-zhan)/[ORCiD](https://orcid.org/0000-0003-2787-4464)
 
-<a href="https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en">Google Scholar个人页面</a> / <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2108195">SSRN个人页面</a> [SSRN](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2108195)
+[Google Scholar个人页面](https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en)/[SSRN个人页面](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2108195)
 
-
-
-# 个人简介
+## 个人简介
 
 战昕彤教授现任复旦大学管理学院李达三金融学讲席教授。她亦是特许金融分析师(CFA) 持证人与特许另类投资分析师(CAIA) 持证人。她于2012年获得北京大学光华管理学院金融学学士学位，2016年获得香港中文大学商学院金融学博士学位。在加入复旦大学之前，战昕彤教授曾于2016-2018年在荷兰鹿特丹伊拉斯姆斯大学经济学院担任金融学助理教授，2018-2021年在香港中文大学商学院担任金融学及房地产联席助理教授。
 
@@ -34,14 +31,14 @@ Email: <a href="mailto: xintongzhan@fudan.edu.cn">xintongzhan@fudan.edu.cn</a>  
 战昕彤教授亦致力于对社会有积极影响力的学术研究，多次受邀至国内外知名金融机构对其研究成果进行宣讲。她所讲授的课程包括房地产金融，财务管理，行为金融等。她曾连续两年 (2018-2020) 获得香港中文大学商学院教学优秀奖 (Faculty Teaching Merit Award)。她参与指导的多名博士研究生任职于国内外知名高等院校以及头部金融机构。
 
 
-# 教育背景
+## 教育背景
 
 2012.08 – 2016.07	 香港中文大学商学院		金融学  	博士学位
 
 2008.09 – 2012.07	 北京大学光华管理学院	 金融学	 学士学位
 
 
-# 学术经历
+## 学术经历
 
 2022.01 至今		    复旦大学管理学院				        金融学讲席教授
 
@@ -50,7 +47,7 @@ Email: <a href="mailto: xintongzhan@fudan.edu.cn">xintongzhan@fudan.edu.cn</a>  
 2016.09 – 2018.07	 荷兰鹿特丹伊拉斯姆斯大学经济学院	 金融学助理教授	
 
 
-# 论文发表
+## 论文发表
 
 1. Product Market Threats and Stock Crash Risk (with Si Li), 2019, _**Management Science**_ 65 (9), 4011–4031. (UTD24 / FT50)
 
@@ -71,7 +68,7 @@ Email: <a href="mailto: xintongzhan@fudan.edu.cn">xintongzhan@fudan.edu.cn</a>  
 9. Option Price Implied Information and REIT Returns (with Jie Cao, Bing Han, Linjia Song), 2022, accepted with minor revision at _**Journal of Empirical Finance**_. 
 
 
-# 科研获奖
+## 科研获奖
 
 2022.07	最佳会议论文奖			第十八届亚太区金融衍生品协会年会 (APAD)		釜山
 
@@ -100,7 +97,7 @@ Email: <a href="mailto: xintongzhan@fudan.edu.cn">xintongzhan@fudan.edu.cn</a>  
 2014.12	最佳论文二等奖			第22届证券暨金融市场理论与实务研讨会 (SFM)	高雄
 
 
-# 业界交流
+## 业界交流
 
 金融机构： 摩根斯坦利 (纽约) , Two Sigma (纽约) , Cubist (纽约) , OptionMetrics (纽约) , Mental Capital (旧金山) , 锐联财智 (洛杉矶) , 施罗德投资集团 (伦敦) , GSA Capital (伦敦) , 领先资管 (巴黎) , 荷宝投资 (阿姆斯特丹) , 安盛投资 (香港) , 美银美林 (香港) , 麦格里银行 (香港) , Quantifeed (香港) , 银华基金 (北京) , 九鞅投资 (上海）
 
