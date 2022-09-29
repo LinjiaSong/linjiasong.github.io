@@ -63,7 +63,7 @@ profile_picture:
 
 ### 7. Implied Volatility Changes and Corporate Bond Returns  (with Jie Cao, Amit Goyal, Xiao Xiao) , 2022,  forthcoming at _**Management Science**_. (UTD24 / FT50)
 
-### 8. ESG Preference, Mutual Fund Trading, and Stock Return Patterns (with Jie Cao, Sheridan Titman, Weiming Zhang), 2022, forthcoming at _**Journal of Financial and Quantitative Analysis**_. (FT50)
+ 8. ESG Preference, Mutual Fund Trading, and Stock Return Patterns (with Jie Cao, Sheridan Titman, Weiming Zhang), 2022, forthcoming at _**Journal of Financial and Quantitative Analysis**_. (FT50)
 
 ### 9. Option Price Implied Information and REIT Returns (with Jie Cao, Bing Han, Linjia Song), 2022, accepted with minor revision at _**Journal of Empirical Finance**_. 
 
