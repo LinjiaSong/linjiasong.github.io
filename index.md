@@ -34,14 +34,14 @@ Email: <a href="mailto: xintongzhan@fudan.edu.cn">xintongzhan@fudan.edu.cn</a>  
 战昕彤教授亦致力于对社会有积极影响力的学术研究，多次受邀至国内外知名金融机构对其研究成果进行宣讲。她所讲授的课程包括房地产金融，财务管理，行为金融等。她曾连续两年 (2018-2020) 获得香港中文大学商学院教学优秀奖 (Faculty Teaching Merit Award)。她参与指导的多名博士研究生任职于国内外知名高等院校以及头部金融机构。
 
 
-**教育背景**
+# 教育背景
 
 2012.08 – 2016.07	 香港中文大学商学院		金融学  	博士学位
 
 2008.09 – 2012.07	 北京大学光华管理学院	 金融学	 学士学位
 
 
-**学术经历**
+# 学术经历
 
 2022.01 至今		    复旦大学管理学院				        金融学讲席教授
 
@@ -50,7 +50,7 @@ Email: <a href="mailto: xintongzhan@fudan.edu.cn">xintongzhan@fudan.edu.cn</a>  
 2016.09 – 2018.07	 荷兰鹿特丹伊拉斯姆斯大学经济学院	 金融学助理教授	
 
 
-**论文发表**
+# 论文发表
 
 1. Product Market Threats and Stock Crash Risk (with Si Li), 2019, _**Management Science**_ 65 (9), 4011–4031. (UTD24 / FT50)
 
@@ -71,7 +71,7 @@ Email: <a href="mailto: xintongzhan@fudan.edu.cn">xintongzhan@fudan.edu.cn</a>  
 9. Option Price Implied Information and REIT Returns (with Jie Cao, Bing Han, Linjia Song), 2022, accepted with minor revision at _**Journal of Empirical Finance**_. 
 
 
-**科研获奖**
+# 科研获奖
 
 2022.07	最佳会议论文奖			第十八届亚太区金融衍生品协会年会 (APAD)		釜山
 
@@ -100,7 +100,7 @@ Email: <a href="mailto: xintongzhan@fudan.edu.cn">xintongzhan@fudan.edu.cn</a>  
 2014.12	最佳论文二等奖			第22届证券暨金融市场理论与实务研讨会 (SFM)	高雄
 
 
-**业界交流**
+# 业界交流
 
 金融机构： 摩根斯坦利 (纽约) , Two Sigma (纽约) , Cubist (纽约) , OptionMetrics (纽约) , Mental Capital (旧金山) , 锐联财智 (洛杉矶) , 施罗德投资集团 (伦敦) , GSA Capital (伦敦) , 领先资管 (巴黎) , 荷宝投资 (阿姆斯特丹) , 安盛投资 (香港) , 美银美林 (香港) , 麦格里银行 (香港) , Quantifeed (香港) , 银华基金 (北京) , 九鞅投资 (上海）
 
@@ -109,7 +109,7 @@ Email: <a href="mailto: xintongzhan@fudan.edu.cn">xintongzhan@fudan.edu.cn</a>  
 行业协会：CFA协会 , CAIA协会 , 世界交易所联合会 (伦敦) , 芝加哥数量联盟 (芝加哥) , 芝加哥数量联盟亚洲 (香港) , 亚洲资产管理杂志 (香港) , 亚洲ETF 论坛 (香港) , 智能投研技术联盟 (上海)
 
 
-**媒体访谈**
+# 媒体访谈
 
 "公司治理面面观" (视频), 财联社, 2022年6月29日
 
