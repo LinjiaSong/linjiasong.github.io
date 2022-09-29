@@ -49,23 +49,23 @@ profile_picture:
 
 ## 论文发表
 
-### 1. Product Market Threats and Stock Crash Risk (with Si Li), 2019, _**Management Science**_ 65 (9), 4011–4031. (UTD24 / FT50)
+1. Product Market Threats and Stock Crash Risk (with Si Li), 2019, _**Management Science**_ 65 (9), 4011–4031. (UTD24 / FT50)
 
-### 2. Peer Effects of Corporate Social Responsibility (with Jie Cao, Hao Liang), 2019, _**Management Science**_ 65 (12), 5487–5503. (UTD24 / FT50)
+2. Peer Effects of Corporate Social Responsibility (with Jie Cao, Hao Liang), 2019, _**Management Science**_ 65 (12), 5487–5503. (UTD24 / FT50)
 
-### 3. Does Change in the Information Environment Affect Financing Choices? (with Xu Li, Chen Lin), 2019, _**Management Science**_ 65 (12), 5676–5696. (UTD24 / FT50)
+3. Does Change in the Information Environment Affect Financing Choices? (with Xu Li, Chen Lin), 2019, _**Management Science**_ 65 (12), 5676–5696. (UTD24 / FT50)
 
-### 4. The Calendar Effects of the Idiosyncratic-Volatility Puzzle: A Tale of Two Days? (with Jie Cao, Tarun Chordia), 2021, _**Management Science**_ 67(12), 7866-7887.(UTD24 / FT50)
+4. The Calendar Effects of the Idiosyncratic-Volatility Puzzle: A Tale of Two Days? (with Jie Cao, Tarun Chordia), 2021, _**Management Science**_ 67(12), 7866-7887.(UTD24 / FT50)
 
-### 5. Patent Quality, Firm Value, and Investor Underreaction: Evidence from Patent Examiner Busyness  (with Tao  Shu, Xuan Tian), 2022, _**Journal of Financial Economics**_ 143 (3), 1043-1069. (UTD24 / FT50)
+5. Patent Quality, Firm Value, and Investor Underreaction: Evidence from Patent Examiner Busyness  (with Tao  Shu, Xuan Tian), 2022, _**Journal of Financial Economics**_ 143 (3), 1043-1069. (UTD24 / FT50)
 
-### 6. Option Return Predictability ( with Jie Cao, Bing Han,  Qing Tong), 2022,  _**Review of Financial Studies**_ 35(3), 1394-1442. (UTD24 / FT50)
+6. Option Return Predictability ( with Jie Cao, Bing Han,  Qing Tong), 2022,  _**Review of Financial Studies**_ 35(3), 1394-1442. (UTD24 / FT50)
 
-### 7. Implied Volatility Changes and Corporate Bond Returns  (with Jie Cao, Amit Goyal, Xiao Xiao) , 2022,  forthcoming at _**Management Science**_. (UTD24 / FT50)
+7. Implied Volatility Changes and Corporate Bond Returns  (with Jie Cao, Amit Goyal, Xiao Xiao) , 2022,  forthcoming at _**Management Science**_. (UTD24 / FT50)
 
- 8. ESG Preference, Mutual Fund Trading, and Stock Return Patterns (with Jie Cao, Sheridan Titman, Weiming Zhang), 2022, forthcoming at _**Journal of Financial and Quantitative Analysis**_. (FT50)
+8. ESG Preference, Mutual Fund Trading, and Stock Return Patterns (with Jie Cao, Sheridan Titman, Weiming Zhang), 2022, forthcoming at _**Journal of Financial and Quantitative Analysis**_. (FT50)
 
-### 9. Option Price Implied Information and REIT Returns (with Jie Cao, Bing Han, Linjia Song), 2022, accepted with minor revision at _**Journal of Empirical Finance**_. 
+9. Option Price Implied Information and REIT Returns (with Jie Cao, Bing Han, Linjia Song), 2022, accepted with minor revision at _**Journal of Empirical Finance**_. 
 
 
 ## 科研获奖
