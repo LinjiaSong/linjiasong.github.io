@@ -47,8 +47,9 @@ profile_picture:
 
 2016.09 – 2018.07,	 荷兰鹿特丹伊拉斯姆斯大学经济学院,	 金融学助理教授	
 
+
 <p>
-<font color="black" face="宋体" size=4 class="aa">学术经历</font>
+<b><font color="black" face="宋体" size=4 class="aa">学术经历</font></b>
 </p>
 <p>
 <font color="black" face="宋体" size=3>2022.01 至今,	    复旦大学管理学院,				        金融学讲席教授</font>
