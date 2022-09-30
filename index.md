@@ -30,14 +30,12 @@ profile_picture:
 <a href="[url](https://hk.linkedin.com/in/xintong-zhan)">领英</a>|<a href="[url](https://orcid.org/0000-0003-2787-4464)">ORCiD</a></font></b>
 </p>
 <p>
-<b></font><font color="SteelBlue" face="宋体" size=4><a href="[url](https://sites.google.com/view/xintongzhan/home?authuser=0)">Google Site英文个人网页</a>|
-<a href="[url](https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en)">Google Scholar个人页面</a></font></b>
+<b><font color="SteelBlue" face="宋体" size=4><a href="[url](https://sites.google.com/view/xintongzhan/home?authuser=0)">Google Site英文个人网页</a>|
+<a href="[url](https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en)">Google Scholar个人页面</a>|
+<a href="[url](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2108195)">SSRN个人页面</a></font></b>
 </p>
   
   
-<font color="black" face="宋体" size=3>“<a href="[url](https://www.listennotes.com)">聪明贝塔指数基金</a></font>
-
-
 
 
 <p>
@@ -80,26 +78,38 @@ profile_picture:
 <font color="black" face="宋体" size=3>2016.09 – 2018.07,  荷兰鹿特丹伊拉斯姆斯大学经济学院,  金融学助理教授</font>
 </p>
 
-## 论文发表
 
-1. [Product Market Threats and Stock Crash Risk](https://pubsonline.informs.org/doi/10.1287/mnsc.2017.3016) (with Si Li), 2019, _**Management Science**_ 65 (9), 4011–4031. (UTD24 / FT50)
 
-2. [Peer Effects of Corporate Social Responsibility](https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3100) (with Jie Cao, Hao Liang), 2019, _**Management Science**_ 65 (12), 5487–5503. (UTD24 / FT50)
-
-3. [Does Change in the Information Environment Affect Financing Choices?](https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3096) (with Xu Li, Chen Lin), 2019, _**Management Science**_ 65 (12), 5676–5696. (UTD24 / FT50)
-
-4. [The Calendar Effects of the Idiosyncratic-Volatility Puzzle: A Tale of Two Days?](https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3803) (with Jie Cao, Tarun Chordia), 2021, _**Management Science**_ 67(12), 7866-7887.(UTD24 / FT50)
-
-5. [Patent Quality, Firm Value, and Investor Underreaction: Evidence from Patent Examiner Busyness](https://www.sciencedirect.com/science/article/abs/pii/S0304405X21004785)  (with Tao  Shu, Xuan Tian), 2022, _**Journal of Financial Economics**_ 143 (3), 1043-1069. (UTD24 / FT50)
-
-6. [Option Return Predictability](https://academic.oup.com/rfs/article-abstract/35/3/1394/6294944?redirectedFrom=fulltext&login=false) ( with Jie Cao, Bing Han,  Qing Tong), 2022,  _**Review of Financial Studies**_ 35(3), 1394-1442. (UTD24 / FT50)
-
-7. [Implied Volatility Changes and Corporate Bond Returns](https://pubsonline.informs.org/doi/10.1287/mnsc.2022.4379)  (with Jie Cao, Amit Goyal, Xiao Xiao) , 2022,  forthcoming at _**Management Science**_. (UTD24 / FT50)
-
-8. [ESG Preference, Mutual Fund Trading, and Stock Return Patterns](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/esg-preference-institutional-trading-and-stock-return-patterns/6FE00808FC61893DF3F9D983136BD8B3) (with Jie Cao, Sheridan Titman, Weiming Zhang), 2022, forthcoming at _**Journal of Financial and Quantitative Analysis**_. (FT50)
-
-9. [Option Price Implied Information and REIT Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3788744) (with Jie Cao, Bing Han, Linjia Song), 2022, accepted with minor revision at _**Journal of Empirical Finance**_. 
-
+<p>
+<b><font color="SteelBlue" face="宋体" size=4 class="aa">论文发表</font></b>
+</p>
+<p>
+<font color="black" face="宋体" size=3>1: <a href="[url](https://pubsonline.informs.org/doi/10.1287/mnsc.2017.3016)">Product Market Threats and Stock Crash Risk</a> (with Si Li), 2019, Management Science 65 (9), 4011–4031. (UTD24 / FT50)</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>2: <a href="[url](https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3100)">Peer Effects of Corporate Social Responsibility</a> (with Jie Cao, Hao Liang), 2019, Management Science 65 (12), 5487–5503. (UTD24 / FT50)</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>3: <a href="[url](https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3096)">Does Change in the Information Environment Affect Financing Choices?</a> (with Xu Li, Chen Lin), 2019, Management Science 65 (12), 5676–5696. (UTD24 / FT50)</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>4: <a href="[url](https://pubsonline.informs.org/doi/10.1287/mnsc.2020.3803)">The Calendar Effects of the Idiosyncratic-Volatility Puzzle: A Tale of Two Days?</a> (with Jie Cao, Tarun Chordia), 2021, Management Science 67(12), 7866-7887.(UTD24 / FT50)</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>5: <a href="[url](https://www.sciencedirect.com/science/article/abs/pii/S0304405X21004785)">Patent Quality, Firm Value, and Investor Underreaction: Evidence from Patent Examiner Busyness</a> (with Tao  Shu, Xuan Tian), 2022, Journal of Financial Economics 143 (3), 1043-1069. (UTD24 / FT50)</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>6: <a href="[url](https://academic.oup.com/rfs/article-abstract/35/3/1394/6294944?redirectedFrom=fulltext&login=false)">Option Return Predictability</a> ( with Jie Cao, Bing Han,  Qing Tong), 2022, Review of Financial Studies 35(3), 1394-1442. (UTD24 / FT50)</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>7: <a href="[url](https://pubsonline.informs.org/doi/10.1287/mnsc.2022.4379)">Implied Volatility Changes and Corporate Bond Returns</a> (with Jie Cao, Amit Goyal, Xiao Xiao) , 2022,  forthcoming at Management Science. (UTD24 / FT50)</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>8: <a href="[url](https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/esg-preference-institutional-trading-and-stock-return-patterns/6FE00808FC61893DF3F9D983136BD8B3)">ESG Preference, Mutual Fund Trading, and Stock Return Patterns</a> (with Jie Cao, Sheridan Titman, Weiming Zhang), 2022, forthcoming at Journal of Financial and Quantitative Analysis. (FT50)</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>9: <a href="[url](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3788744)">Option Price Implied Information and REIT Returns</a> (with Jie Cao, Bing Han, Linjia Song), 2022, accepted with minor revision at Journal of Empirical Finance.</font>
+</p>
 
 
 <p>
