@@ -10,35 +10,35 @@ profile_picture:
 <b><font color="Black" face="微软正黑" size=5 class="aa">战昕彤</font></b>
 </p>
 <p>
-<b><font color="Black" face="微软正黑" size=4 class="aa">李达三金融学讲席教授</font></b>
+<font color="Black" face="微软正黑" size=4 class="aa">李达三金融学讲席教授</font>
 </p>
 <p>
-<b><font color="Black" face="微软正黑" size=4 class="aa">复旦大学管理学院</font></b>
+<font color="Black" face="微软正黑" size=4 class="aa">复旦大学管理学院</font>
 </p>
 <p>
-<b><font color="Black" face="微软正黑" size=4 class="aa">电话: +86 21 2501-1068</font></b>
+<font color="Black" face="微软正黑" size=4 class="aa">电话: +86 21 2501-1068</font>
 </p>
 <p>
-<b><font color="Black" face="微软正黑" size=4>Email:</font></b> 
-<b><font color="SteelBlue" face="微软正黑" size=4><a href="mailto: xintongzhan@fudan.edu.cn">xintongzhan@fudan.edu.cn</a>|<a href="mailto: xintongzhan@hotmail.com">xintongzhan@hotmail.com</a></font></b>
+<font color="Black" face="微软正黑" size=4>Email:</font>
+<font color="SteelBlue" face="微软正黑" size=4><a href="mailto: xintongzhan@fudan.edu.cn">xintongzhan@fudan.edu.cn</a>|<a href="mailto: xintongzhan@hotmail.com">xintongzhan@hotmail.com</a></font>
 </p>
 
 
 <p>
-<b><font color="SteelBlue" face="微软正黑" size=4><a href="https://www.dropbox.com/s/b5ny7snsjssflmj/CV_Web.pdf?dl=0">简历</a>|
+<font color="SteelBlue" face="微软正黑" size=4><a href="https://www.dropbox.com/s/b5ny7snsjssflmj/CV_Web.pdf?dl=0">简历</a>|
 <a href="https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012509">复旦网页</a>|
-<a href="https://hk.linkedin.com/in/xintong-zhan">领英</a>|<a href="https://orcid.org/0000-0003-2787-4464">ORCiD</a></font></b>
+<a href="https://hk.linkedin.com/in/xintong-zhan">领英</a>|<a href="https://orcid.org/0000-0003-2787-4464">ORCiD</a></font>
 </p>
 <p>
-<b><font color="SteelBlue" face="微软正黑" size=4><a href="https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en">Google Scholar个人页面</a>|
-<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2108195">SSRN个人页面</a></font></b>
+<font color="SteelBlue" face="微软正黑" size=4><a href="https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en">Google Scholar个人页面</a>|
+<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2108195">SSRN个人页面</a></font>
 </p>
 
 <p>
-<b><a href="https://sites.google.com/view/xintongzhan/home?authuser=0">
+<a href="https://sites.google.com/view/xintongzhan/home?authuser=0">
 <font color="Blue" face="微软正黑" size=4>G</font><font color="Red" face="微软正黑" size=4>o</font><font color="Orange" face="微软正黑" size=4>o</font><font color="Blue" face="微软正黑" size=4>g</font><font color="Green" face="微软正黑" size=4>l</font><font color="Red" face="微软正黑" size=4>e</font>
 <font color="Black" face="微软正黑" size=4>Site英文个人网页</font>
-</a></b>
+</a>
 </p>
   
 
