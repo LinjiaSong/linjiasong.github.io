@@ -140,11 +140,11 @@ profile_picture:
 <b><font color="black" face="宋体" size=4 class="aa">媒体访谈</font></b>
 </p>
 <p>
-<font color="black" face="宋体" size=3>"[公司治理面面观](https://api3.cls.cn/share/article/1062843?app=cailianpress&os=android&sv=788)" (视频), 财联社, 2022年6月29日</font>
+<font color="black" face="宋体" size=3>"<a href="[url](https://api3.cls.cn/share/article/1062843?app=cailianpress&os=android&sv=788)">公司治理面面观</a> (视频), 财联社, 2022年6月29日</font>
 </p>
 <p>
-<font color="black" face="宋体" size=3>"[出人意表的绿色投资](https://www.iso.cuhk.edu.hk/chinese/publications/CUHKUPDates/article.aspx?articleid=4056)", 香港中文大学-学术探奇栏目, 2021年12月</font>
+<font color="black" face="宋体" size=3>"<a href="[url](https://www.iso.cuhk.edu.hk/chinese/publications/CUHKUPDates/article.aspx?articleid=4056)">出人意表的绿色投资</a>, 香港中文大学-学术探奇栏目, 2021年12月</font>
 </p>
 <p>
-<font color="black" face="宋体" size=3>"[北交所](https://www.youtube.com/watch?v=hI1aoJAChZE)", TVB 财经透视, 2021年11月21日</font>
+<font color="black" face="宋体" size=3>"<a href="[url](https://www.youtube.com/watch?v=hI1aoJAChZE)">北交所</a>, TVB 财经透视, 2021年11月21日</font>
 </p>
