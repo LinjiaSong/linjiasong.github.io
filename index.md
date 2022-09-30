@@ -20,7 +20,7 @@ profile_picture:
 </p>
 <p>
 <b><font color="Black" face="宋体" size=4>Email:</font></b> 
-<b><font color="SteelBlue" face="宋体" size=4><a href="[url](mailto: xintongzhan@fudan.edu.cn)">xintongzhan@fudan.edu.cn</a>|<a href="[url](mailto: xintongzhan@hotmail.com)">xintongzhan@hotmail.com</a></font></b>
+<b><font color="SteelBlue" face="宋体" size=4><a href="mailto: xintongzhan@fudan.edu.cn">xintongzhan@fudan.edu.cn</a>|<a href="[url](mailto: xintongzhan@hotmail.com)">xintongzhan@hotmail.com</a></font></b>
 </p>
 
 
