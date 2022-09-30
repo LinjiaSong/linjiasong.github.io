@@ -37,7 +37,7 @@ profile_picture:
 
 <p>
 <b><a href="[url](https://sites.google.com/view/xintongzhan/home?authuser=0)">
-<font color="Blue" face="宋体" size=4>G</font> <font color="Red" face="宋体" size=4>o</font> <font color="Orange" face="宋体" size=4>o</font> <font color="Blue" face="宋体" size=4>g</font> <font color="Green" face="宋体" size=4>l</font> <font color="Red" face="宋体" size=4>e</font>
+<font color="Blue" face="宋体" size=4>G</font><font color="Red" face="宋体" size=4>o</font><font color="Orange" face="宋体" size=4>o</font><font color="Blue" face="宋体" size=4>g</font><font color="Green" face="宋体" size=4>l</font><font color="Red" face="宋体" size=4>e</font>
 <font color="SteelBlue" face="宋体" size=4>Site英文个人网页</font>
 </a></b>
 </p>
