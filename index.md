@@ -49,7 +49,7 @@ profile_picture:
 
 
 <p>
-<b><font color="black" face="宋体" size=4 class="aa">学术经历</font></b>
+<b><font color="blue" face="宋体" size=4 class="aa">学术经历</font></b>
 </p>
 <p>
 <font color="black" face="宋体" size=3>2022.01 至今,	    复旦大学管理学院,				        金融学讲席教授</font>
