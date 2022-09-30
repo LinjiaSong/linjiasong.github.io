@@ -119,6 +119,18 @@ profile_picture:
 
 行业协会：CFA协会 , CAIA协会 , 世界交易所联合会 (伦敦) , 芝加哥数量联盟 (芝加哥) , 芝加哥数量联盟亚洲 (香港) , 亚洲资产管理杂志 (香港) , 亚洲ETF 论坛 (香港) , 智能投研技术联盟 (上海)
 
+<p>
+<b><font color="black" face="宋体" size=4 class="aa">业界交流</font></b>
+</p>
+<p>
+<font color="black" face="宋体" size=3>金融机构： 摩根斯坦利 (纽约) , Two Sigma (纽约) , Cubist (纽约) , OptionMetrics (纽约) , Mental Capital (旧金山) , 锐联财智 (洛杉矶) , 施罗德投资集团 (伦敦) , GSA Capital (伦敦) , 领先资管 (巴黎) , 荷宝投资 (阿姆斯特丹) , 安盛投资 (香港) , 美银美林 (香港) , 麦格里银行 (香港) , Quantifeed (香港) , 银华基金 (北京) , 九鞅投资 (上海）</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>研究机构：中证金融研究院 (北京) , 欧洲量化投资研究所 , 加拿大衍生品研究院 (蒙特利尔) , 日内瓦财富研究院 (日内瓦) , 新国大资产管理研究与投资中心 (新加坡) , 上纽大金融波动研究所 (上海)</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>行业协会：CFA协会 , CAIA协会 , 世界交易所联合会 (伦敦) , 芝加哥数量联盟 (芝加哥) , 芝加哥数量联盟亚洲 (香港) , 亚洲资产管理杂志 (香港) , 亚洲ETF 论坛 (香港) , 智能投研技术联盟 (上海)</font>
+</p>
 
 ## 媒体访谈
 
@@ -147,9 +159,6 @@ profile_picture:
 </p>
 <p>
 <font color="black" face="宋体" size=3>“<a href="[url](https://www.youtube.com/watch?v=hI1aoJAChZE)">北交所</a>”, TVB 财经透视, 2021年11月21日</font>
-</p>
-<p>
-<font color="black" face="宋体" size=3>“<a href="[url](https://www.youtube.com/watch?v=hI1aoJAChZE)">中概股回流</a>”, 香港01, 2021年2月8日</font>
 </p>
 <p>
 <font color="black" face="宋体" size=3>“<a href="[url](https://www.hk01.com/%E6%B7%B1%E5%BA%A6%E5%A0%B1%E9%81%93/584900/%E4%B8%AD%E6%A6%82%E8%82%A1%E5%9B%9E%E6%B5%81-%E4%B8%80-%E4%B8%AD%E6%A6%82%E8%82%A1%E7%82%BA%E4%BB%80%E9%BA%BC%E5%9B%9E%E6%B5%81%E9%A6%99%E6%B8%AF)">中概股回流</a>”, 香港01, 2021年2月8日</font>
