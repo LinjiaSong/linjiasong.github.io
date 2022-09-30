@@ -19,15 +19,26 @@ profile_picture:
 <b><font color="Black" face="宋体" size=4 class="aa">电话: +86 21 2501-1068</font></b>
 </p>
 <p>
-<b><font color="Black" face="宋体" size=4 class="aa">Email:</font><font color="SteelBlue" face="宋体" size=4 class="aa"><a href="[url](mailto: xintongzhan@fudan.edu.cn)">xintongzhan@fudan.edu.cn|<a href="[url](mailto: xintongzhan@hotmail.com)">xintongzhan@hotmail.com</a></font></b>
-</p>
-<p>
-<b><font color="SteelBlue" face="宋体" size=4 class="aa"><a href="[url]([mailto: xintongzhan@fudan.edu.cn](https://www.dropbox.com/s/b5ny7snsjssflmj/CV_Web.pdf?dl=0))">简历|<a href="[url](https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012509)">复旦网页</a>|<a href="[url](https://hk.linkedin.com/in/xintong-zhan)">领英</a>|<a href="[url](https://orcid.org/0000-0003-2787-4464)">ORCiD</a></font></b>
-</p>
-<p>
-<b></font><font color="SteelBlue" face="宋体" size=4 class="aa"><a href="[url](https://sites.google.com/view/xintongzhan/home?authuser=0)">Google Site英文个人网页|<a href="[url](https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en)">Google Scholar个人页面</a></font></b>
+<b><font color="Black" face="宋体" size=4>Email:</font></b> <b><font color="SteelBlue" face="宋体" size=4><a href="[url](mailto: xintongzhan@fudan.edu.cn)">xintongzhan@fudan.edu.cn|<a href="[url](mailto: xintongzhan@hotmail.com)">xintongzhan@hotmail.com</a></font></b>
 </p>
   
+<font color="black" face="宋体" size=3><a href="[url](https://www.listennotes.com)">聪明贝塔指数基金</a></font>  
+
+<p>
+<b><font color="SteelBlue" face="宋体" size=4><a href="[url](https://www.dropbox.com/s/b5ny7snsjssflmj/CV_Web.pdf?dl=0)">简历</a>|
+<a href="[url](https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012509)">复旦网页</a>|
+<a href="[url](https://hk.linkedin.com/in/xintong-zhan)">领英</a>|<a href="[url](https://orcid.org/0000-0003-2787-4464)">ORCiD</a></font></b>
+</p>
+<p>
+<b></font><font color="SteelBlue" face="宋体" size=4><a href="[url](https://sites.google.com/view/xintongzhan/home?authuser=0)">Google Site英文个人网页</a>|
+<a href="[url](https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en)">Google Scholar个人页面</a></font></b>
+</p>
+  
+  
+<font color="black" face="宋体" size=3>“<a href="[url](https://www.listennotes.com)">聪明贝塔指数基金</a></font>
+
+
+
 
 <p>
 <b><font color="SteelBlue" face="宋体" size=4 class="aa">个人简介</font></b>
