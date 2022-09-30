@@ -19,10 +19,10 @@ profile_picture:
 <b><font color="Black" face="宋体" size=4 class="aa">电话: +86 21 2501-1068</font></b>
 </p>
 <p>
-<b><font color="Black" face="宋体" size=4>Email:</font></b> <b><font color="SteelBlue" face="宋体" size=4><a href="[url](mailto: xintongzhan@fudan.edu.cn)">xintongzhan@fudan.edu.cn|<a href="[url](mailto: xintongzhan@hotmail.com)">xintongzhan@hotmail.com</a></font></b>
+<b><font color="Black" face="宋体" size=4>Email:</font></b> 
+<b><font color="SteelBlue" face="宋体" size=4><a href="[url](mailto: xintongzhan@fudan.edu.cn)">xintongzhan@fudan.edu.cn</a>|<a href="[url](mailto: xintongzhan@hotmail.com)">xintongzhan@hotmail.com</a></font></b>
 </p>
-  
-<font color="black" face="宋体" size=3><a href="[url](https://www.listennotes.com)">聪明贝塔指数基金</a></font>  
+
 
 <p>
 <b><font color="SteelBlue" face="宋体" size=4><a href="[url](https://www.dropbox.com/s/b5ny7snsjssflmj/CV_Web.pdf?dl=0)">简历</a>|
