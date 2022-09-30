@@ -39,15 +39,13 @@ profile_picture:
 <p>
 <b><font color="Black" face="宋体" size=4 class="aa">Email:</font><font color="SteelBlue" face="宋体" size=4 class="aa"><a href="[url](mailto: xintongzhan@fudan.edu.cn)">xintongzhan@fudan.edu.cn|<a href="[url](mailto: xintongzhan@hotmail.com)">xintongzhan@hotmail.com</a></font></b>
 </p>
-
-## 个人简介
-
-战昕彤教授现任复旦大学管理学院李达三金融学讲席教授。她亦是特许金融分析师(CFA) 持证人与特许另类投资分析师(CAIA) 持证人。她于2012年获得北京大学光华管理学院金融学学士学位, 2016年获得香港中文大学商学院金融学博士学位。在加入复旦大学之前, 战昕彤教授曾于2016-2018年在荷兰鹿特丹伊拉斯姆斯大学经济学院担任金融学助理教授, 2018-2021年在香港中文大学商学院担任金融学及房地产联席助理教授。
-
-她的研究领域为实证资产定价, 可持续金融, 金融衍生品等。其多项研究成果见诸于国际顶级金融学及管理学期刊, 其中7篇发表在UTD全球商学院科研排名的24本学术期刊上 (UTD24), 8篇发表在金融时报评定出的50本商学院顶级期刊上 (FT50)。她曾连续三年获得香港研究局的项目资助, 包括一项杰出青年研究计划 (ECS) 以及两项优配研究基金 (GRF), 并获得瑞士日内瓦财富研究院, 加拿大衍生品研究院等多个海外科研机构的研究支持。她的论文先后12次入选金融学科的三大顶级国际会议：美国金融协会年会 (AFA), 西部金融协会年会 (WFA), 以及欧洲金融协会年会 (EFA)。战昕彤教授多次在国际学术会议及金融业界论坛上获得最佳研究论文奖, 并于2021年获颁香港中文大学青年学者研究成就奖 (Young Researcher Award)。
-
-战昕彤教授亦致力于对社会有积极影响力的学术研究, 多次受邀至国内外知名金融机构对其研究成果进行宣讲。她所讲授的课程包括房地产金融, 财务管理, 行为金融等。她曾连续两年 (2018-2020) 获得香港中文大学商学院教学优秀奖 (Faculty Teaching Merit Award)。她参与指导的多名博士研究生任职于国内外知名高等院校以及头部金融机构。
-
+<p>
+<b><font color="SteelBlue" face="宋体" size=4 class="aa"><a href="[url]([mailto: xintongzhan@fudan.edu.cn](https://www.dropbox.com/s/b5ny7snsjssflmj/CV_Web.pdf?dl=0))">简历|<a href="[url](https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012509)">复旦网页</a>|<a href="[url](https://hk.linkedin.com/in/xintong-zhan)">领英</a>|<a href="[url](https://orcid.org/0000-0003-2787-4464)">ORCiD</a></font></b>
+</p>
+<p>
+<b></font><font color="SteelBlue" face="宋体" size=4 class="aa"><a href="[url](https://sites.google.com/view/xintongzhan/home?authuser=0)">Google Site英文个人网页|<a href="[url](https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en)">Google Scholar个人页面</a></font></b>
+</p>
+  
 
 <p>
 <b><font color="SteelBlue" face="宋体" size=4 class="aa">个人简介</font></b>
@@ -151,16 +149,8 @@ profile_picture:
 2014.12,	最佳论文二等奖,		第22届证券暨金融市场理论与实务研讨会 (SFM),	高雄
 
 
-## 业界交流
-
-金融机构： 摩根斯坦利 (纽约) , Two Sigma (纽约) , Cubist (纽约) , OptionMetrics (纽约) , Mental Capital (旧金山) , 锐联财智 (洛杉矶) , 施罗德投资集团 (伦敦) , GSA Capital (伦敦) , 领先资管 (巴黎) , 荷宝投资 (阿姆斯特丹) , 安盛投资 (香港) , 美银美林 (香港) , 麦格里银行 (香港) , Quantifeed (香港) , 银华基金 (北京) , 九鞅投资 (上海）
-
-研究机构：中证金融研究院 (北京) , 欧洲量化投资研究所 , 加拿大衍生品研究院 (蒙特利尔) , 日内瓦财富研究院 (日内瓦) , 新国大资产管理研究与投资中心 (新加坡) , 上纽大金融波动研究所 (上海)
-
-行业协会：CFA协会 , CAIA协会 , 世界交易所联合会 (伦敦) , 芝加哥数量联盟 (芝加哥) , 芝加哥数量联盟亚洲 (香港) , 亚洲资产管理杂志 (香港) , 亚洲ETF 论坛 (香港) , 智能投研技术联盟 (上海)
-
 <p>
-<b><font color="black" face="宋体" size=4 class="aa">业界交流</font></b>
+<b><font color="SteelBlue" face="宋体" size=4 class="aa">业界交流</font></b>
 </p>
 <p>
 <font color="black" face="宋体" size=3>金融机构： 摩根斯坦利 (纽约) , Two Sigma (纽约) , Cubist (纽约) , OptionMetrics (纽约) , Mental Capital (旧金山) , 锐联财智 (洛杉矶) , 施罗德投资集团 (伦敦) , GSA Capital (伦敦) , 领先资管 (巴黎) , 荷宝投资 (阿姆斯特丹) , 安盛投资 (香港) , 美银美林 (香港) , 麦格里银行 (香港) , Quantifeed (香港) , 银华基金 (北京) , 九鞅投资 (上海）</font>
@@ -172,24 +162,9 @@ profile_picture:
 <font color="black" face="宋体" size=3>行业协会：CFA协会 , CAIA协会 , 世界交易所联合会 (伦敦) , 芝加哥数量联盟 (芝加哥) , 芝加哥数量联盟亚洲 (香港) , 亚洲资产管理杂志 (香港) , 亚洲ETF 论坛 (香港) , 智能投研技术联盟 (上海)</font>
 </p>
 
-## 媒体访谈
-
-"[公司治理面面观](https://api3.cls.cn/share/article/1062843?app=cailianpress&os=android&sv=788)" (视频), 财联社, 2022年6月29日
-
-"[出人意表的绿色投资](https://www.iso.cuhk.edu.hk/chinese/publications/CUHKUPDates/article.aspx?articleid=4056)", 香港中文大学-学术探奇栏目, 2021年12月
-
-"[北交所](https://www.youtube.com/watch?v=hI1aoJAChZE)", TVB 财经透视, 2021年11月21日
-
-"[中概股回流](https://www.hk01.com/%E6%B7%B1%E5%BA%A6%E5%A0%B1%E9%81%93/584900/%E4%B8%AD%E6%A6%82%E8%82%A1%E5%9B%9E%E6%B5%81-%E4%B8%80-%E4%B8%AD%E6%A6%82%E8%82%A1%E7%82%BA%E4%BB%80%E9%BA%BC%E5%9B%9E%E6%B5%81%E9%A6%99%E6%B8%AF)", 香港01, 2021年2月8日
-
-"[金融支持大湾区建设意见如何落地实施](http://www.cnbayarea.org.cn/news/voices/content/post_260003.html)", 南方网 , 2020年6月4日
-
-"[ESG对市场效率的影响](https://www.benefitscanada.com/canadian-investment-review/research-markets/a-look-at-esgs-influence-on-market-efficiency/)"(英文), 加拿大投资评论，2019年10月10日
-
-"[聪明贝塔指数基金](https://www.listennotes.com/podcasts/%E4%BC%8D%E6%B2%BB%E5%9D%9A/%E6%88%98%E6%98%95%E5%BD%A4%E8%8D%B7%E5%85%B0%E4%BC%8A%E6%8B%89%E6%96%AF%E5%A7%86%E6%96%AF%E5%A4%A7%E5%AD%A6%E8%81%AA%E6%98%8E%E8%B4%9D%E5%A1%94%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91%E6%9C%89%E5%95%A5%E5%A5%BD-pltjai2kVXZ/)", 伍治坚证据主义访谈, 2017年
 
 <p>
-<b><font color="black" face="宋体" size=4 class="aa">媒体访谈</font></b>
+<b><font color="SteelBlue" face="宋体" size=4 class="aa">媒体访谈</font></b>
 </p>
 <p>
 <font color="black" face="宋体" size=3>“<a href="[url](https://api3.cls.cn/share/article/1062843?app=cailianpress&os=android&sv=788)">公司治理面面观</a>” (视频), 财联社, 2022年6月29日</font>
