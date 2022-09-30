@@ -6,24 +6,6 @@ profile_picture:
 ---
 
 
-## 战昕彤
-
-
-### 李达三金融学讲席教授
-
-### 金融与财务学系
-
-### 复旦大学管理学院
-
-### 电话: +86 21 2501-1068
-
-### Email: [xintongzhan@fudan.edu.cn](mailto: xintongzhan@fudan.edu.cn) / [xintongzhan@hotmail.com](mailto: xintongzhan@hotmail.com)
-
-### [简历](https://www.dropbox.com/s/b5ny7snsjssflmj/CV_Web.pdf?dl=0)/[复旦网页](https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012509)/[领英](https://hk.linkedin.com/in/xintong-zhan)/[ORCiD](https://orcid.org/0000-0003-2787-4464)
-
-### [Google Site英文个人网页](https://sites.google.com/view/xintongzhan/home?authuser=0)/[Google Scholar个人页面](https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en)/[SSRN个人页面](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2108195)
-
-
 <p>
 <b><font color="Black" face="宋体" size=5 class="aa">战昕彤</font></b>
 </p>
@@ -61,11 +43,6 @@ profile_picture:
 </p>
 
 
-## 教育背景
-
-2012.08 – 2016.07,	 香港中文大学商学院,		金融学  	博士学位
-
-2008.09 – 2012.07, 北京大学光华管理学院, 金融学	 学士学位
 
 <p>
 <b><font color="SteelBlue" face="宋体" size=4 class="aa">教育背景</font></b>
@@ -77,13 +54,6 @@ profile_picture:
 <font color="black" face="宋体" size=3>2008.09 – 2012.07, 北京大学光华管理学院, 金融学	 学士学位</font>
 </p>
 
-## 学术经历
-
-2022.01 至今,	    复旦大学管理学院,				        金融学讲席教授
-
-2018.08 – 2021.12,  香港中文大学商学院,				       金融学及房地产联席助理教授
-
-2016.09 – 2018.07,	 荷兰鹿特丹伊拉斯姆斯大学经济学院,	 金融学助理教授	
 
 
 <p>
@@ -120,33 +90,50 @@ profile_picture:
 9. [Option Price Implied Information and REIT Returns](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3788744) (with Jie Cao, Bing Han, Linjia Song), 2022, accepted with minor revision at _**Journal of Empirical Finance**_. 
 
 
-## 科研获奖
 
-2022.07,	最佳会议论文奖,			第十八届亚太区金融衍生品协会年会 (APAD),		釜山
+<p>
+<b><font color="SteelBlue" face="宋体" size=4 class="aa">科研获奖</font></b>
+</p>
+<p>
+<font color="black" face="宋体" size=3>2022.07,	最佳会议论文奖,			第十八届亚太区金融衍生品协会年会 (APAD),		釜山</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>2021.07,	青年学者研究成就奖,			香港中文大学,								香港</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>2021.07,	新韩优秀投资论文奖,			第十七届亚太区金融衍生品协会年会 (APAD),		釜山</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>2020.09,	最佳金融衍生品论文奖,		北方金融协会年会 (NFA),						加拿大</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>2020.02,	最佳论文奖,			国际金融管理协会资产管理会议,					剑桥</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>2019.11,	AAM-CAMRI 资产管理奖,      《亚洲资产管理杂志》与新国大资产管理研究中心,	新加坡</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>2018.12,	最佳论文二等奖,			第26届证券暨金融市场理论与实务研讨会 (SFM),	高雄</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>2018.05,	ETF学术研究奖,				巴黎第九大学与领先资产管理公司,				巴黎</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>2017.09,	学术竞赛奖,			芝加哥数量联盟年会 (CQA),					芝加哥</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>2016.11,	学术竞赛奖,				芝加哥数量联盟亚洲年会 (CQAsia),				香港</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>2015.12,	最佳公司金融论文奖,			第28届澳大利亚金融与银行会议 (AFBC),			悉尼</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>2014.12,	杰出论文奖,			第9届亚太区金融市场国际会议 (CAFM),			首尔</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>2014.12,	最佳论文二等奖,		第22届证券暨金融市场理论与实务研讨会 (SFM),	高雄</font>
+</p>
 
-2021.07,	青年学者研究成就奖,			香港中文大学,								香港
-
-2021.07,	新韩优秀投资论文奖,			第十七届亚太区金融衍生品协会年会 (APAD),		釜山
-
-2020.09,	最佳金融衍生品论文奖,		北方金融协会年会 (NFA),						加拿大
-
-2020.02,	最佳论文奖,			国际金融管理协会资产管理会议,					剑桥
-
-2019.11,	AAM-CAMRI 资产管理奖,      《亚洲资产管理杂志》与新国大资产管理研究中心,	新加坡 
-
-2018.12,	最佳论文二等奖,			第26届证券暨金融市场理论与实务研讨会 (SFM),	高雄
-
-2018.05,	ETF学术研究奖,				巴黎第九大学与领先资产管理公司,				巴黎
-
-2017.09,	学术竞赛奖,			芝加哥数量联盟年会 (CQA),					芝加哥
-
-2016.11,	学术竞赛奖,				芝加哥数量联盟亚洲年会 (CQAsia),				香港
-
-2015.12,	最佳公司金融论文奖,			第28届澳大利亚金融与银行会议 (AFBC),			悉尼	
-
-2014.12,	杰出论文奖,			第9届亚太区金融市场国际会议 (CAFM),			首尔
-
-2014.12,	最佳论文二等奖,		第22届证券暨金融市场理论与实务研讨会 (SFM),	高雄
 
 
 <p>
