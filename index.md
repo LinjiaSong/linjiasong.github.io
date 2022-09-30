@@ -34,7 +34,13 @@ profile_picture:
 <a href="[url](https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en)">Google Scholar个人页面</a>|
 <a href="[url](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2108195)">SSRN个人页面</a></font></b>
 </p>
-  
+
+<p>
+<b><a href="[url](https://sites.google.com/view/xintongzhan/home?authuser=0)">
+<font color="Blue" face="宋体" size=4>G</font> <font color="Red" face="宋体" size=4>o</font> <font color="Orange" face="宋体" size=4>o</font> <font color="Blue" face="宋体" size=4>g</font> <font color="Green" face="宋体" size=4>l</font> <font color="Red" face="宋体" size=4>e</font>
+<font color="SteelBlue" face="宋体" size=4>Site英文个人网页</font>
+</a></b>
+</p>
   
 
 
