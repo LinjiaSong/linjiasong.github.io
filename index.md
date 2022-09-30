@@ -136,3 +136,15 @@ profile_picture:
 
 "[聪明贝塔指数基金](https://www.listennotes.com/podcasts/%E4%BC%8D%E6%B2%BB%E5%9D%9A/%E6%88%98%E6%98%95%E5%BD%A4%E8%8D%B7%E5%85%B0%E4%BC%8A%E6%8B%89%E6%96%AF%E5%A7%86%E6%96%AF%E5%A4%A7%E5%AD%A6%E8%81%AA%E6%98%8E%E8%B4%9D%E5%A1%94%E6%8C%87%E6%95%B0%E5%9F%BA%E9%87%91%E6%9C%89%E5%95%A5%E5%A5%BD-pltjai2kVXZ/)", 伍治坚证据主义访谈, 2017年
 
+<p>
+<b><font color="black" face="宋体" size=4 class="aa">媒体访谈</font></b>
+</p>
+<p>
+<font color="black" face="宋体" size=3>"[公司治理面面观](https://api3.cls.cn/share/article/1062843?app=cailianpress&os=android&sv=788)" (视频), 财联社, 2022年6月29日</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>"[出人意表的绿色投资](https://www.iso.cuhk.edu.hk/chinese/publications/CUHKUPDates/article.aspx?articleid=4056)", 香港中文大学-学术探奇栏目, 2021年12月</font>
+</p>
+<p>
+<font color="black" face="宋体" size=3>"[北交所](https://www.youtube.com/watch?v=hI1aoJAChZE)", TVB 财经透视, 2021年11月21日</font>
+</p>
