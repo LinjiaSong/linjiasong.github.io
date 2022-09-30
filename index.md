@@ -30,8 +30,7 @@ profile_picture:
 <a href="https://hk.linkedin.com/in/xintong-zhan">领英</a>|<a href="https://orcid.org/0000-0003-2787-4464">ORCiD</a></font></b>
 </p>
 <p>
-<b><font color="SteelBlue" face="宋体" size=4><a href="https://sites.google.com/view/xintongzhan/home?authuser=0">Google Site英文个人网页</a>|
-<a href="https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en">Google Scholar个人页面</a>|
+<b><font color="SteelBlue" face="宋体" size=4><a href="https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en">Google Scholar个人页面</a>|
 <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2108195">SSRN个人页面</a></font></b>
 </p>
 
