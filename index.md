@@ -25,13 +25,13 @@ profile_picture:
 
 
 <p>
-<font color="SteelBlue" face="微软正黑" size=4><a href="https://www.dropbox.com/s/b5ny7snsjssflmj/CV_Web.pdf?dl=0" target="_blank">英文简历</a>|
-  <a href="xintongzhan.github.io/战昕彤简历.pdf" target="_blank">中文简历</a>|
-<a href="https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012509" target="_blank">复旦网页</a>|
-<a href="https://hk.linkedin.com/in/xintong-zhan" target="_blank">领英</a>|<a href="https://orcid.org/0000-0003-2787-4464" target="_blank">ORCiD</a></font>
+<font color="SteelBlue" face="微软正黑" size=4><a href="https://www.dropbox.com/s/b5ny7snsjssflmj/CV_Web.pdf?dl=0" target="_blank">英文简历</a> |
+  <a href="xintongzhan.github.io/战昕彤简历.pdf" target="_blank">中文简历</a> |
+<a href="https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012509" target="_blank">复旦网页</a> |
+<a href="https://hk.linkedin.com/in/xintong-zhan" target="_blank">领英</a> | <a href="https://orcid.org/0000-0003-2787-4464" target="_blank">ORCiD</a></font>
 </p>
 <p>
-<font color="SteelBlue" face="微软正黑" size=4><a href="https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en" target="_blank">Google Scholar个人页面</a>|
+<font color="SteelBlue" face="微软正黑" size=4><a href="https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en" target="_blank">Google Scholar个人页面</a> | 
 <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2108195">SSRN个人页面</a></font>
 </p>
 
