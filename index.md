@@ -90,7 +90,7 @@ profile_picture:
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">论文发表</font></b>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>1: <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2017.3016" target="_blank">Product Market Threats and Stock Crash Risk</a> (with Si Li), 2019,  <strong><em> Management Science </strong></em> 65 (9), 4011–4031. (UTD24 / FT50)</font>
+<font color="black" face="微软正黑" size=3>1: <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2017.3016" target="_blank">Product Market Threats and Stock Crash Risk</a> (with Si Li), 2019,  <strong> Management Science </strong> 65 (9), 4011–4031. (UTD24 / FT50)</font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2: <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2018.3100" target="_blank">Peer Effects of Corporate Social Responsibility</a> (with Jie Cao, Hao Liang), 2019, <strong><em>Management Science</strong></em> 65 (12), 5487–5503. (UTD24 / FT50)</font>
