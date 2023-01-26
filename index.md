@@ -186,7 +186,7 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>“<a href="[https://www.iso.cuhk.edu.hk/chinese/publications/CUHKUPDates/article.aspx?articleid=4056](https://www.jiemian.com/article/8641894.html)" target="_blank">企业ESG践行：机遇与挑战</a>”, 界面新闻-界面臻善年会, 2021年12月21日</font>
+<font color="black" face="微软正黑" size=3>“<a href="https://www.jiemian.com/article/8641894.html" target="_blank">企业ESG践行：机遇与挑战</a>”, 界面新闻-界面臻善年会, 2021年12月21日</font>
 </p>
 
 <p>
