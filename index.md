@@ -193,7 +193,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3><a href="https://www.syntaogf.com/info-detail/%E3%80%90%E6%96%B0%E9%97%BB%E3%80%91china-sif%EF%BD%9Cesg%E5%AE%9E%E8%B7%B5%E4%B8%8E%E6%8A%95%E8%B5%84%E5%9B%9E%E6%8A%A5%E5%AD%A6%E6%9C%AF%E7%A0%94%E8%AE%A8%E4%BC%9A%E6%88%90%E5%8A%9F%E4%B8%BE%E5%8A%9E" target="_blank">ESG实践与投资回报学术研讨会</a>, 商道融绿, 2022年12月14日</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3><a href="https://m.cls.cn/detail/1207881" target="_blank">第三届ESG企业高峰论坛</a>, 财联社, 2022年12月14日</font>
+<font color="black" face="微软正黑" size=3><a href="https://m.cls.cn/detail/1207881" target="_blank">第三届ESG企业高峰论坛</a>, 财联社, 2022年12月8日</font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>“<a href="https://api3.cls.cn/share/article/1062843?app=cailianpress&os=android&sv=788" target="_blank">公司治理面面观</a>” (<a href="https://api3.cls.cn/share/live/778?app=cailianpress&os=android&sv=7.8.8" target="_blank">视频</a>), 财联社, 2022年6月29日</font>
