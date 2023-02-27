@@ -79,7 +79,7 @@ profile_picture:
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">学术经历</font></b>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2022.01 至今,	    复旦大学管理学院,				        金融学讲席教授</font>
+<font color="black" face="微软正黑" size=3>2022.01 至今,	    复旦大学管理学院,				        金融学讲席教授、博士生导师</font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2018.08 – 2021.12,  香港中文大学商学院,				       金融学及房地产联席助理教授</font>
