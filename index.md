@@ -32,7 +32,7 @@ profile_picture:
 </p>
 <p>
 <font color="SteelBlue" face="微软正黑" size=4><a href="https://scholar.google.com/citations?user=2zRv64wAAAAJ&hl=en" target="_blank">Google Scholar个人页面</a> | 
-<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2108195">SSRN个人页面</a></font>
+<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2108195" target="_blank">SSRN个人页面</a></font>
 </p>
 
 <p>
