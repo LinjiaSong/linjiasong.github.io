@@ -117,7 +117,7 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>8: <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2022.4379" target="_blank">Implied Volatility Changes and Corporate Bond Returns</a> (with Jie Cao, Amit Goyal, Xiao Xiao) , 2023,  forthcoming at <strong>Management Science</strong> 69(3), 1375-1397. (UTD24 / FT50)</font>
+<font color="black" face="微软正黑" size=3>8: <a href="https://pubsonline.informs.org/doi/10.1287/mnsc.2022.4379" target="_blank">Implied Volatility Changes and Corporate Bond Returns</a> (with Jie Cao, Amit Goyal, Xiao Xiao) , 2023,  forthcoming at <strong>Management Science</strong> 69 (3), 1375-1397. (UTD24 / FT50)</font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>9: <a href="https://www.cambridge.org/core/journals/journal-of-financial-and-quantitative-analysis/article/abs/esg-preference-institutional-trading-and-stock-return-patterns/6FE00808FC61893DF3F9D983136BD8B3" target="_blank">ESG Preference, Mutual Fund Trading, and Stock Return Patterns</a> (with Jie Cao, Sheridan Titman, Weiming Zhang), 2023, forthcoming at <strong>Journal of Financial and Quantitative Analysis</strong>. (FT50)</font>
