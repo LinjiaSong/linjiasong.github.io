@@ -25,7 +25,7 @@ profile_picture:
 
 
 <p>
-<font color="SteelBlue" face="微软正黑" size=4><a href="https://www.dropbox.com/s/8nnzvvl8guv7rjw/CV_Web.pdf?dl=0" target="_blank">英文简历</a> |
+<font color="SteelBlue" face="微软正黑" size=4><a href="https://www.dropbox.com/s/8nnzvvl8guv7rjw/CV_Web.pdf?dl=0"  target="_blank">英文简历</a> |
   <a href="https://xintongzhan.github.io/%E6%88%98%E6%98%95%E5%BD%A4%E7%AE%80%E5%8E%86.pdf" target="_blank">中文简历</a> |
 <a href="https://www.fdsm.fudan.edu.cn/AboutUs/preview.html?uid=012509" target="_blank">复旦网页</a> |
 <a href="https://hk.linkedin.com/in/xintong-zhan" target="_blank">领英</a> | <a href="https://orcid.org/0000-0003-2787-4464" target="_blank">ORCiD</a></font>
