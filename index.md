@@ -88,12 +88,22 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>2016.09 – 2018.07,  荷兰鹿特丹伊拉斯姆斯大学经济学院,  金融学助理教授</font>
 </p>
 
+
+
 <p>
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">学术兼职</font></b>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2022.07 至今,	    香港中文大学刘佐德全球经济及金融研究所,				        名誉研究员</font>
 </p>
+<p>
+<font color="black" face="微软正黑" size=3>2023.06 至今,	    International Review of Finance《国际金融评论》期刊,				        副主编</font>
+</p>
+<p>
+<font color="black" face="微软正黑" size=3>2023.02 至今,	    China Accounting and Finance Review《中国会计与财务研究》期刊,				        编委</font>
+</p>
+
+
 
 <p>
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">论文发表</font></b>
