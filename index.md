@@ -129,6 +129,11 @@ profile_picture:
 <p>
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">科研获奖</font></b>
 </p>
+
+<p>
+<font color="black" face="微软正黑" size=3>2023.03,	最佳大会报告论文,			第六届衍生品青年论坛,					广州</font>
+</p>
+
 <p>
 <font color="black" face="微软正黑" size=3>2023.03,	最佳论文奖,			国际金融管理协会资产管理会议,					剑桥</font>
 </p>
