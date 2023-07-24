@@ -131,7 +131,7 @@ profile_picture:
 </p>
 
 <p>
-<font color="black" face="微软正黑" size=3>2023.03,	最佳大会报告论文,			第六届衍生品青年论坛,					广州</font>
+<font color="black" face="微软正黑" size=3>2023.07,	最佳大会报告论文,			第六届衍生品青年论坛,					广州</font>
 </p>
 
 <p>
