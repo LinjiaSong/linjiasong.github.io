@@ -58,7 +58,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>战昕彤教授入选国家海外高层次人才计划青年项目和上海市领军人才项目，并主持国家自然科学基金委面上项目。她曾连续三年（2018-2021）获得香港研究局的项目资助，包括一项杰出青年研究计划 (ECS) 以及两项优配研究基金 (GRF)，并获得瑞士日内瓦财富研究院，加拿大衍生品研究院等多个海外科研机构的研究支持。 </font>
 </p>
 <p>
- <font color="black" face="微软正黑" size=3>战昕彤教授现担任《中国会计与财务研究》期刊的编委 (Editor), 知名SSCI国际期刊《International Review of Finance》的副主编 (Associate Editor), 以及多种国际一流期刊的评审工作。 她亦致力于对社会有积极影响力的学术研究, 多次受邀至国内外知名金融机构对其研究成果进行宣讲。她所讲授的课程包括房地产金融, 财务管理, 行为金融等。她曾连续两年 (2018-2020) 获得香港中文大学商学院教学优秀奖 (Faculty Teaching Merit Award)。她参与指导的多名博士研究生任职于国内外知名高等院校以及头部金融机构。</font>
+ <font color="black" face="微软正黑" size=3>战昕彤教授目前担任知名SSCI 国际期刊《International Review of Finance》的副主编 (Associate Editor)。她亦担任 CFA 旗下的金融业界国际权威期刊《Financial Analysts Journal》的编委会成员，以及《中国会计与财务研究》期刊的编委 (Editor)。她承担多种国际一流期刊的评审工作，并担任香港研究局的外部评审专家。战教授亦致力于对社会有积极影响力的学术研究，多次受邀至国内外知名金融机构对其研究成果进行宣讲。她所讲授的课程包括可持续金融，房地产金融，财务管理，行为金融等。她曾连续两年（2018-2020）获得香港中文大学商学院教学优秀奖 (Faculty Teaching Merit Award)。她参与指导的多名博士研究生任职于国内外知名高等院校以及头部金融机构。</font>
 </p>
 
 
@@ -72,7 +72,12 @@ profile_picture:
 <p>
 <font color="black" face="微软正黑" size=3>2008.09 – 2012.07, 北京大学光华管理学院, 金融学	 学士学位</font>
 </p>
-
+<p>
+<font color="black" face="微软正黑" size=3>2009.09 – 2012.07, 北京大学外国语学院, 德语	 学士学位 (辅修)</font>
+</p>
+<p>
+<font color="black" face="微软正黑" size=3>2010.09 – 2010.12, 香港中文大学商学院, 金融学	 交换学习</font>
+</p>
 
 
 <p>
@@ -98,6 +103,17 @@ profile_picture:
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2023.07 至今,	    香港中文大学刘佐德全球经济及金融研究所,				        名誉研究员</font>
+</p>
+<p>
+<font color="black" face="微软正黑" size=3>2016.09 – 2021.12,	    荷兰-廷贝亨研究所 (Tinbergen Institute),				        Candidate Fellow</font>
+</p>
+
+<p>
+<b><font color="SteelBlue" face="微软正黑" size=4 class="aa">学术期刊</font></b>
+</p>
+
+<p>
+<font color="black" face="微软正黑" size=3>2024.01 至今,	    Financial Analysts Journal《金融分析师》期刊,				        编委会</font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2023.06 至今,	    International Review of Finance《国际金融评论》期刊,				        副主编</font>
