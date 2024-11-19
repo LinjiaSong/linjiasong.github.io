@@ -27,12 +27,6 @@ profile_picture:
 <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2108195" target="_blank">SSRN个人页面</a></font>
 </p>
 
-<p>
-<a href="https://sites.google.com/view/xintongzhan/home?authuser=0" target="_blank">
-<font color="Blue" face="微软正黑" size=4>G</font><font color="Red" face="微软正黑" size=4>o</font><font color="Orange" face="微软正黑" size=4>o</font><font color="Blue" face="微软正黑" size=4>g</font><font color="Green" face="微软正黑" size=4>l</font><font color="Red" face="微软正黑" size=4>e</font>
-<font color="Black" face="微软正黑" size=4>Site英文个人网页</font>
-</a>
-</p>
   
 
 
