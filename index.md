@@ -46,7 +46,7 @@ profile_picture:
 
 
 <p>
-<b><font color="SteelBlue" face="微软正黑" size=4 class="aa">教育背景</font></b>
+<b><font color="SteelBlue" face="微软正黑" size=4 class="aa">Education</font></b>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2018.09 – 2022.07,	 The Chinese University of Hong Kong, PhD in Business Administration</font>
@@ -55,11 +55,6 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>2014.09 – 2018.07, Xi'an Jiaotong University, BSc in Economics</font>
 </p>
 
-
-
-<p>
-<font color="black" face="微软正黑" size=3>2016.09 – 2018.07,	    荷兰-廷贝亨研究所 (Tinbergen Institute),				        Candidate Fellow</font>
-</p>
 
 
 
