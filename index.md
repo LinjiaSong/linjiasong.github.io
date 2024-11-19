@@ -20,21 +20,16 @@ profile_picture:
 
 
 <p>
-<font color="SteelBlue" face="微软正黑" size=4><a href="https://www.dropbox.com/s/jx6phiwgojnwqjx/CV_xintong.pdf?dl=0" target="_blank">英文简历</a> |
-  <a href="https://xintongzhan.github.io/%E6%88%98%E6%98%95%E5%BD%A4%E7%AE%80%E5%8E%86.pdf" target="_blank">中文简历</a> |
+<font color="SteelBlue" face="微软正黑" size=4><a href="[https://www.dropbox.com/s/jx6phiwgojnwqjx/CV_xintong.pdf?dl=0](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6260032)" target="_blank">SSRN Page</a> |
+  <a href="[https://xintongzhan.github.io/%E6%88%98%E6%98%95%E5%BD%A4%E7%AE%80%E5%8E%86.pdf](https://smr.xmu.edu.cn/TeacherWeb/Teacher_Details_2022.aspx?User_ID=1234)" target="_blank">Official Page</a> |
 </p>
-<p>
-<a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=2108195" target="_blank">SSRN个人页面</a></font>
-</p>
-
-  
 
 
 <p>
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">Intro</font></b>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>Linjia Song is now an assistant professor of finance at Xiamen University</font>
+<font color="black" face="微软正黑" size=3>I am an Assistant Professor of Finance at Xiamen University. My research interests are in empirical asset pricing, derivatives, real estate finance, and supply chain.</font>
 </p>
 
 
