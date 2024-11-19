@@ -8,7 +8,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   Linjia Song.
 # baseurl: "/Lin" # the subpath of the site  #bay
 url: "https://linjiasong.github.io" # the base hostname & protocol for the site
-og_image: /assets/img/profilepic.jpg
+og_image: /assets/img/photosong.jpg
 #google_analytics: "UA-121636368-3"
 
 header: 
