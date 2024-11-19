@@ -21,7 +21,7 @@ profile_picture:
 
 <p>
 <font color="SteelBlue" face="微软正黑" size=4><a href="[https://www.dropbox.com/s/jx6phiwgojnwqjx/CV_xintong.pdf?dl=0](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6260032)" target="_blank">SSRN Page</a> |
-  <a href="[https://xintongzhan.github.io/%E6%88%98%E6%98%95%E5%BD%A4%E7%AE%80%E5%8E%86.pdf](https://smr.xmu.edu.cn/TeacherWeb/Teacher_Details_2022.aspx?User_ID=1234)" target="_blank">Official Page</a> |
+  <a href="[https://xintongzhan.github.io/%E6%88%98%E6%98%95%E5%BD%A4%E7%AE%80%E5%8E%86.pdf](https://smr.xmu.edu.cn/TeacherWeb/Teacher_Details_2022.aspx?User_ID=1234)" target="_blank">Official Page</a> </font>
 </p>
 
 
