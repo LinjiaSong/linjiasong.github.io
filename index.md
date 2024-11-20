@@ -20,9 +20,10 @@ profile_picture:
 
 
 <p>
-<font color="SteelBlue" face="微软正黑" size=4><a href="[https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6260032](https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6260032)" target="_blank">SSRN Page</a> |
-  <a href="[https://smr.xmu.edu.cn/TeacherWeb/Teacher_Details_2022.aspx?User_ID=1234](https://smr.xmu.edu.cn/TeacherWeb/Teacher_Details_2022.aspx?User_ID=1234)" target="_blank">Official Page</a> </font>
+  <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=6260032" target="_blank" style="color: SteelBlue; font-family: 'Microsoft JhengHei', sans-serif; font-size: 16px;">SSRN Page</a> |
+  <a href="https://smr.xmu.edu.cn/TeacherWeb/Teacher_Details_2022.aspx?User_ID=1234" target="_blank" style="color: SteelBlue; font-family: 'Microsoft JhengHei', sans-serif; font-size: 16px;">Official Page</a>
 </p>
+
 
 
 <p>
