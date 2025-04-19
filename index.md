@@ -92,7 +92,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>2023: AsRes-GCREC Conference, CICF*, The Federal Reserve Board*, University of Sussex*, University of Minnesota*, Virtual Derivatives Workshop*</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2022: CIRF; The $4^{th}$ Derivatives Youth Forum, APAD Annual Conference, ASSA-AREUEA Annual Meeting, FMCG</font>
+<font color="black" face="微软正黑" size=3>2022: CIRF; The 4th Derivatives Youth Forum, APAD Annual Conference, ASSA-AREUEA Annual Meeting, FMCG</font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2021: AREUEA-International Annual Meeting, APAD Annual Conference</font>
