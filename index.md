@@ -48,25 +48,33 @@ profile_picture:
 <p>
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">Research</font></b>
 </p>
+
+<p>
+<font color="black" face="微软正黑" size=3>1. Real Activities and Uncertainty: Evidence from Real Estate Market (with Jie Cao, Sheridan Titman, and Xintong Zhan)</font>
+</p>
+<p>
+<font color="black" face="微软正黑" size=3>2. A Conditional Factor Model for REIT Returns (with Jie Cao, and Xintong Zhan)</font>
+</p>
+<p>
+<font color="black" face="微软正黑" size=3>3. Opioid Crisis Along the Supply Chain (with Jie Cao, Xintong Zhan, and Weiming Zhang) -ARCS 2025</font>
+</p>
+<p>
+<font color="black" face="微软正黑" size=3>4.Forecasting Corporate Bond Index Returns with Firm Characteristics and Macro Variables  (with Jie Cao, Ruijing Yang, and Xintong Zhan)</font>
+</p>
+<p>
+<font color="black" face="微软正黑" size=3>5. Media Coverage and Option Returns (with Ruijing Yang)</font>
+</p>
+
+
+<p>
+<b><font color="SteelBlue" face="微软正黑" size=4 class="aa">Publications</font></b>
+</p>
 <p>
 <font color="black" face="微软正黑" size=3>1. Option Price Implied Information and REIT Returns , (with Jie Cao, Bing Han, and Xintong Zhan), 2023, Journal of Empirical Finance 71, 13-28.</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2. A Factor Model for Stock Options (with Turan Bali, Jie Cao, Fousseni Chabi-Yo, and Xintong Zhan) - CICF 2023</font>
+<font color="black" face="微软正黑" size=3>2. Smart Beta, ”Smarter” Flows (with Jie Cao, Jason Hsu, Zhanbing Xiao, and Xintong Zhan), 2025, Journal of Empirical Finance  - ETF Research Academy Award of the Paris-Dauphine House of Finance</font>
 </p>
-<p>
-<font color="black" face="微软正黑" size=3>3. Smart Beta, ”Smarter” Flows (with Jie Cao, Jason Hsu, Zhanbing Xiao, and Xintong Zhan)  -NFA (2018), CQAsia Annual Conference, ETF Research Academy Award of the Paris-Dauphine House of Finance (in association with Lyxor Asset Management), 2018</font>
-</p>
-<p>
-<font color="black" face="微软正黑" size=3>4. A New Factor Model for REIT Returns (with Jie Cao, and Xintong Zhan)</font>
-</p>
-<p>
-<font color="black" face="微软正黑" size=3>5. Opioid Crisis Along the Supply Chain (with Jie Cao, Xintong Zhan, and Weiming Zhang)</font>
-</p>
-<p>
-<font color="black" face="微软正黑" size=3>6. Media Coverage and Option Returns (with Ruijing Yang)</font>
-</p>
-
 
 
 
