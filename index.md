@@ -73,7 +73,10 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>1. Option Price Implied Information and REIT Returns , (with Jie Cao, Bing Han, and Xintong Zhan), 2023, Journal of Empirical Finance 71, 13-28.</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2. Smart Beta, ”Smarter” Flows (with Jie Cao, Jason Hsu, Zhanbing Xiao, and Xintong Zhan), 2025, Journal of Empirical Finance  - ETF Research Academy Award of the Paris-Dauphine House of Finance</font>
+<font color="black" face="微软正黑" size=3>2. Smart Beta, ”Smarter” Flows (with Jie Cao, Jason Hsu, Zhanbing Xiao, and Xintong Zhan), 2025, Journal of Empirical Finance </font>
+</p>
+<p>
+<font color="black" face="微软正黑" size=3>- ETF Research Academy Award of the Paris-Dauphine House of Finance</font>
 </p>
 
 <p>
@@ -86,13 +89,13 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>2024: Xiamen University, Chinese Finance Annual Meeting, East China China University*, Hong Kong Institute for Monetary and Financial Research*</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2023: AsRes-GCREC Conference, China International Conference in Finance*, The Federal Reserve Board*, University of Sussex*, University of Minnesota*, Virtual Derivatives Workshop*</font>
+<font color="black" face="微软正黑" size=3>2023: AsRes-GCREC Conference, CICF*, The Federal Reserve Board*, University of Sussex*, University of Minnesota*, Virtual Derivatives Workshop*</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2022: China International Risk Forum; The $4^{th}$ Derivatives Youth Forum, Asia-Pacific Association of Derivatives Annual Conference, ASSA-AREUEA Annual Meeting, Financial Markets and Corporate Governance Conference</font>
+<font color="black" face="微软正黑" size=3>2022: CIRF; The $4^{th}$ Derivatives Youth Forum, APAD Annual Conference, ASSA-AREUEA Annual Meeting, FMCG</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2021: AREUEA-International Annual Meeting, Asia-Pacific Association of Derivatives Annual Conference</font>
+<font color="black" face="微软正黑" size=3>2021: AREUEA-International Annual Meeting, APAD Annual Conference</font>
 </p>
 
 
