@@ -59,7 +59,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>3. Opioid Crisis Along the Supply Chain (with Jie Cao, Xintong Zhan, and Weiming Zhang) -ARCS 2025</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>4.Forecasting Corporate Bond Index Returns with Firm Characteristics and Macro Variables  (with Jie Cao, Ruijing Yang, and Xintong Zhan)</font>
+<font color="black" face="微软正黑" size=3>4. Forecasting Corporate Bond Index Returns with Firm Characteristics and Macro Variables  (with Jie Cao, Ruijing Yang, and Xintong Zhan)</font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>5. Media Coverage and Option Returns (with Ruijing Yang)</font>
