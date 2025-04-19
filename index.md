@@ -46,7 +46,7 @@ profile_picture:
 </p>
 
 <p>
-<b><font color="SteelBlue" face="微软正黑" size=4 class="aa">Research</font></b>
+<b><font color="SteelBlue" face="微软正黑" size=4 class="aa">Working Papers</font></b>
 </p>
 
 <p>
