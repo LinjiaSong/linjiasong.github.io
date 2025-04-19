@@ -77,7 +77,7 @@ profile_picture:
 </p>
 
 <p>
-<b><font color="SteelBlue" face="微软正黑" size=4 class="aa">Presentations</font></b>
+<b><font color="SteelBlue" face="微软正黑" size=4 class="aa">Presentations (*by coauthor)</font></b>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2025: Alliance for Research on Corporate Sustainability (Paris)  </font>
