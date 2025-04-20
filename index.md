@@ -86,7 +86,7 @@ profile_picture:
 <font color="black" face="微软正黑" size=3>2025: Alliance for Research on Corporate Sustainability (Paris)  </font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2024: Xiamen University, Chinese Finance Annual Meeting, East China China University*, Hong Kong Institute for Monetary and Financial Research*</font>
+<font color="black" face="微软正黑" size=3>2024: Xiamen University, Chinese Finance Annual Meeting, East China Normal University*, Hong Kong Institute for Monetary and Financial Research*</font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2023: AsRes-GCREC Conference, CICF*, The Federal Reserve Board*, University of Sussex*, University of Minnesota*, Virtual Derivatives Workshop*</font>
