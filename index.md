@@ -1,12 +1,9 @@
 ---
 layout: home
-profile_picture:
-  src: /assets/img/profile_picture.jpg
-  alt: website picture
 ---
 
-<p style="text-align:center; margin-top:20px; margin-bottom:20px;">
-  <img src="/assets/img/profile_picture.jpg" alt="website picture" style="width:180px; height:auto; border-radius:50%; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+<p>
+  <img src="/assets/img/profile_picture.jpg" alt="website picture" style="width:180px; height:auto;">
 </p>
 
 <p>
