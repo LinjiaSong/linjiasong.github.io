@@ -30,7 +30,7 @@ layout: home
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">Intro</font></b>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>I am an Assistant Professor of Finance at Xiamen University. My research interests are in empirical asset pricing, derivatives, real estate finance, and supply chain.</font>
+<font color="black" face="微软正黑" size=3  class="aa">I am an Assistant Professor of Finance at Xiamen University. My research interests are in empirical asset pricing, derivatives, real estate finance, and supply chain.</font>
 </p>
 
 
