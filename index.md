@@ -3,7 +3,7 @@ layout: home
 ---
 
 <p>
-  <img src="/assets/img/profile_picture.jpg" alt="website picture" style="width:180px; height:auto;">
+  <img src="/assets/img/profile_picture.jpg" alt="website picture" style="width:240px; height:auto;">
 </p>
 
 <p>
