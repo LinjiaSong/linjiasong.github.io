@@ -10,18 +10,18 @@ layout: home
 <b><font color="Black" face="微软正黑" size=5 class="aa">Linjia Song 宋琳甲</font></b>
 </p>
 <p>
-<font color="Black" face="微软正黑" size=4 class="aa">Assistant Professor of Finance, Xiamen University</font>
+<b><font color="Black" face="微软正黑" size=4 class="aa">Assistant Professor of Finance, Xiamen University</font></b>
 </p>
 
 <p>
-<font color="Black" face="微软正黑" size=4>Email:</font>
+<b><font color="Black" face="微软正黑" size=4>Email:</font></b>
 <font color="SteelBlue" face="微软正黑" size=4><a href="mailto: songlinjia@xmu.edu.cn">songlinjia@xmu.edu.cn</a>|<a href="mailto: songlinjia@hotmail.com">songlinjia@hotmail.com</a></font>
 </p>
 
 
 <p>
-  <a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3160827" target="_blank" style="color: SteelBlue; font-family: 'Microsoft JhengHei', sans-serif; font-size: 16px;">SSRN Page</a> |
-  <a href="https://smr.xmu.edu.cn/TeacherWeb/Teacher_Details_2022.aspx?User_ID=1234" target="_blank" style="color: SteelBlue; font-family: 'Microsoft JhengHei', sans-serif; font-size: 16px;">Official Page</a>
+  <b><a href="https://papers.ssrn.com/sol3/cf_dev/AbsByAuth.cfm?per_id=3160827" target="_blank" style="color: SteelBlue; font-family: 'Microsoft JhengHei', sans-serif; font-size: 16px;">SSRN Page</a> |
+  <a href="https://smr.xmu.edu.cn/TeacherWeb/Teacher_Details_2022.aspx?User_ID=1234" target="_blank" style="color: SteelBlue; font-family: 'Microsoft JhengHei', sans-serif; font-size: 16px;">Official Page</a>  </b>
 </p>
 
 
