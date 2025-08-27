@@ -67,6 +67,12 @@ layout: home
 <p>
 <font color="black" face="微软正黑" size=3>6. Healthy Returns: The Impact of Paid Sick Leave on Hospital Healthcare Quality (with Jie Cao, Lei Lei, and Xinong Zhan)</font>
 </p>
+<p>
+<font color="black" face="微软正黑" size=3>7. The Cost of Care: Paid Family Leave and Bank Loan Pricing (with Si Li, Jianglong Liu, and Xintong Zhan)</font>
+</p>
+<p>
+<font color="black" face="微软正黑" size=3>8. Information Processing Costs and Supply Chain Formation: Evidence from Local IPOs (with Jie Cao, Michael Hertzel, Xinqi Yu, and Xintong Zhan)</font>
+</p>
 
 
 <p>
