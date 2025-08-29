@@ -7,7 +7,7 @@ layout: home
 </p>
 
 <p>
-<b><font color="Black" face="微软正黑" size=5 class="aa">Linjia Song 宋琳甲</font></b>
+<b><font color="Black" face="微软正黑" size=5 class="aa">Linjia (Alex) Song 宋琳甲</font></b>
 </p>
 <p>
 <b><font color="Black" face="微软正黑" size=4 class="aa">Assistant Professor of Finance, Xiamen University</font></b>
