@@ -112,10 +112,10 @@ layout: home
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">Research Grant</font></b>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>The National Natural Science Foundation of China (NSFC)  </font>
+<font color="black" face="微软正黑" size=3>The National Natural Science Foundation of China (NSFC), Youth Science Fund, Principal Investigator, RMB 300,000  </font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>Youth Science Fund, Principal Investigator, CNY 300,000  </font>
+<font color="black" face="微软正黑" size=3>Fundamental Research Funds for the Central Universities, Principal Investigator, RMB 100,000,  </font>
 </p>
 
 
