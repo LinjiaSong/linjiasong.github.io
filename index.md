@@ -93,7 +93,7 @@ layout: home
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">Presentations (*by coauthor)</font></b>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2025: Alliance for Research on Corporate Sustainability at HEC Paris  </font>
+<font color="black" face="微软正黑" size=3>2025: Alliance for Research on Corporate Sustainability at HEC Paris, SFS Cavalcade AP*, FMA Annual Meeting*  </font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2024: Xiamen University, Chinese Finance Annual Meeting, East China Normal University*, Hong Kong Institute for Monetary and Financial Research*</font>
