@@ -93,13 +93,13 @@ layout: home
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">Presentations (*by coauthor)</font></b>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2025: Alliance for Research on Corporate Sustainability at HEC Paris, SFS Cavalcade AP*, FMA Annual Meeting*  </font>
+<font color="black" face="微软正黑" size=3>2025: Alliance for Research on Corporate Sustainability at HEC Paris, Conference on Asia-Pacific Financial Markets (CAFM, Seoul), MRS International Risk Conference, SFS Cavalcade AP*, FMA Annual Meeting*  </font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2024: Xiamen University, Chinese Finance Annual Meeting, East China Normal University*, Hong Kong Institute for Monetary and Financial Research*</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2023: AsRes-GCREC Conference, CICF*, The Federal Reserve Board*, University of Sussex*, University of Minnesota*, Virtual Derivatives Workshop*</font>
+<font color="black" face="微软正黑" size=3>2023: AsRes-GCREC Conference, China International Conference in Finance (CICF)*, The Federal Reserve Board*, University of Sussex*, University of Minnesota*, Virtual Derivatives Workshop*</font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2022: CIRF; The 4th Derivatives Youth Forum, APAD Annual Conference, ASSA-AREUEA Annual Meeting, FMCG</font>
