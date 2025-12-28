@@ -66,7 +66,7 @@ layout: home
 <font color="black" face="微软正黑" size=3>5. Media Coverage and Option Returns (with Ruijing Yang)</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>6. Healthy Returns: The Impact of Paid Sick Leave on Hospital Healthcare Quality (with Jie Cao, Lei Lei, and Xinong Zhan)</font>
+<font color="black" face="微软正黑" size=3>6. Demand Shocks and Product Quality: Evidence from Hospitals (with Jie Cao, Lei Lei, and Xinong Zhan)</font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>7. The Cost of Care: Paid Family Leave and Bank Loan Pricing (with Si Li, Jianglong Liu, and Xintong Zhan)</font>
