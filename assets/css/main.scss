@@ -1,36 +1,33 @@
 /* =========================
-   Widen page/container
+   Page width control (FINAL)
    ========================= */
 
-/* Minima 常见容器：.wrapper（也可能叫 .container / .page-content） */
+/* 主内容容器：Minima 用的是 .wrapper */
 .wrapper {
-  max-width: 1200px;   /* 你想多宽就改这里 */
-  padding-right: 30px; /* 防止太贴边 */
+  max-width: 1200px;          /* 👈 核心：内容宽度 */
+  margin-left: auto;
+  margin-right: auto;         /* 👈 强制居中 */
   padding-left: 30px;
+  padding-right: 30px;
 }
 
-/* 内容区域也有时会被限制 */
+/* 内容区上下留白 */
 .page-content {
   padding: 30px 0;
 }
 
-/* 宽屏再更宽（可选） */
-@media screen and (min-width: 1200px) {
+/* 超大屏稍微放宽（可选，但不会铺满） */
+@media screen and (min-width: 1600px) {
   .wrapper {
-    max-width: 1200px; /* 大屏更宽一点 */
+    max-width: 1300px;
   }
 }
 
-/* 小屏保持原来逻辑（可选，避免手机太挤） */
+/* 小屏自适应 */
 @media screen and (max-width: 800px) {
   .wrapper {
     max-width: 95%;
-    padding-right: 16px;
     padding-left: 16px;
+    padding-right: 16px;
   }
-}
-
-/* FORCE WIDE */
-.wrapper, .container, .page, .page__content, .main-content {
-  max-width: 1200px !important;
 }
