@@ -1,10 +1,13 @@
-
+---
 # Only the main Sass file needs front matter (the dashes are enough)
 ---
 
 @charset "utf-8";
 
-// Our variables
+/* =========================
+   Variables
+   ========================= */
+
 $base-url: "{{ site.baseurl }}";
 
 $base-font-family: Charter, Georgia, Helvetica, Arial, sans-serif;
@@ -31,5 +34,49 @@ $on-laptop: 800px;
   }
 }
 
-// Import partials from `sass_dir` (defaults to `_sass`)
+/* =========================
+   Theme imports
+   ========================= */
+
 @import "base", "layout", "site", "work", "blog", "post", "404";
+
+/* =====================================================
+   FINAL LAYOUT OVERRIDE
+   Centered, not too wide, Minima-safe
+   ===================================================== */
+
+/* 主内容容器（Minima 默认使用 .wrapper） */
+.wrapper {
+  max-width: 1100px;          /* ← 控制整体宽度（推荐 1050–1200） */
+  margin-left: auto;
+  margin-right: auto;         /* ← 强制居中（关键） */
+  padding-left: 24px;
+  padding-right: 24px;
+  box-sizing: border-box;
+}
+
+/* 有些页面可能使用 container，兜底 */
+.container {
+  max-width: 1100px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-left: 24px;
+  padding-right: 24px;
+  box-sizing: border-box;
+}
+
+/* 页面内容上下留白 */
+.page-content {
+  width: 100%;
+  padding: 30px 0;
+}
+
+/* 小屏自适应 */
+@media screen and (max-width: 800px) {
+  .wrapper,
+  .container {
+    max-width: 95%;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
