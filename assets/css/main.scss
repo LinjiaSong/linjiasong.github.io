@@ -1,33 +1,49 @@
 /* =========================
-   Page width control (FINAL)
+   Page width control (centered)
    ========================= */
 
-/* 主内容容器：Minima 用的是 .wrapper */
+/* 1) 主容器：强制限制宽度 + 居中 */
 .wrapper {
-  max-width: 1200px;          /* 👈 核心：内容宽度 */
-  margin-left: auto;
-  margin-right: auto;         /* 👈 强制居中 */
+  width: 100% !important;           /* 保证小屏自适应 */
+  max-width: 1200px !important;     /* 控制桌面端宽度 */
+  margin: 0 auto !important;        /* 强制居中（关键） */
   padding-left: 30px;
   padding-right: 30px;
+  box-sizing: border-box;
 }
 
-/* 内容区上下留白 */
+/* 2) 有些主题是外层容器在作怪：也强制居中 */
+.page,
+.page-content,
+.container,
+.main-content,
+.page__content {
+  width: 100%;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* 3) 内容区上下留白 */
 .page-content {
   padding: 30px 0;
 }
 
-/* 超大屏稍微放宽（可选，但不会铺满） */
+/* 4) 超大屏稍微更宽，但不铺满 */
 @media screen and (min-width: 1600px) {
   .wrapper {
-    max-width: 1300px;
+    max-width: 1300px !important;
   }
 }
 
-/* 小屏自适应 */
+/* 5) 小屏 */
 @media screen and (max-width: 800px) {
   .wrapper {
-    max-width: 95%;
+    max-width: 95% !important;
     padding-left: 16px;
     padding-right: 16px;
   }
+}
+
+.page-content {
+  justify-content: center !important;
 }
