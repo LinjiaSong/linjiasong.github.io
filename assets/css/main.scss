@@ -17,7 +17,7 @@
 /* 宽屏再更宽（可选） */
 @media screen and (min-width: 1200px) {
   .wrapper {
-    max-width: 1400px; /* 大屏更宽一点 */
+    max-width: 1200px; /* 大屏更宽一点 */
   }
 }
 
@@ -32,5 +32,5 @@
 
 /* FORCE WIDE */
 .wrapper, .container, .page, .page__content, .main-content {
-  max-width: 1400px !important;
+  max-width: 1200px !important;
 }
