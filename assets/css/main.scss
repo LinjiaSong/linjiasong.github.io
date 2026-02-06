@@ -1,35 +1,31 @@
----
-# Only the main Sass file needs front matter (the dashes are enough)
----
+/* =========================
+   Widen page/container
+   ========================= */
 
-@charset "utf-8";
+/* Minima 常见容器：.wrapper（也可能叫 .container / .page-content） */
+.wrapper {
+  max-width: 1200px;   /* 你想多宽就改这里 */
+  padding-right: 30px; /* 防止太贴边 */
+  padding-left: 30px;
+}
 
-// Our variables
-$base-url: "{{ site.baseurl }}";
+/* 内容区域也有时会被限制 */
+.page-content {
+  padding: 30px 0;
+}
 
-$base-font-family: Charter, Georgia, Helvetica, Arial, sans-serif;
-$base-font-size: 14px;
-$small-font-size: $base-font-size * 0.875;
-$base-line-height: 1.7;
-
-$spacing-unit: 30px;
-
-$text-color: #111;
-$background-color: #fdfdfd;
-$brand-color: #2a7ae2;
-
-$grey-color: #828282;
-$grey-color-light: lighten($grey-color, 40%);
-$grey-color-dark: darken($grey-color, 25%);
-
-$on-mobile: 500px;
-$on-laptop: 800px;
-
-@mixin media-query($device) {
-  @media screen and (max-width: $device) {
-    @content;
+/* 宽屏再更宽（可选） */
+@media screen and (min-width: 1200px) {
+  .wrapper {
+    max-width: 1400px; /* 大屏更宽一点 */
   }
 }
 
-// Import partials from `sass_dir` (defaults to `_sass`)
-@import "base", "layout", "site", "work", "blog", "post", "404";
+/* 小屏保持原来逻辑（可选，避免手机太挤） */
+@media screen and (max-width: 800px) {
+  .wrapper {
+    max-width: 95%;
+    padding-right: 16px;
+    padding-left: 16px;
+  }
+}
