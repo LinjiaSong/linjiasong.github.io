@@ -1,49 +1,35 @@
-/* =========================
-   Page width control (centered)
-   ========================= */
+根据我这个代码 调整 ---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
 
-/* 1) 主容器：强制限制宽度 + 居中 */
-.wrapper {
-  width: 100% !important;           /* 保证小屏自适应 */
-  max-width: 1200px !important;     /* 控制桌面端宽度 */
-  margin: 0 auto !important;        /* 强制居中（关键） */
-  padding-left: 30px;
-  padding-right: 30px;
-  box-sizing: border-box;
-}
+@charset "utf-8";
 
-/* 2) 有些主题是外层容器在作怪：也强制居中 */
-.page,
-.page-content,
-.container,
-.main-content,
-.page__content {
-  width: 100%;
-  margin-left: auto !important;
-  margin-right: auto !important;
-}
+// Our variables
+$base-url: "{{ site.baseurl }}";
 
-/* 3) 内容区上下留白 */
-.page-content {
-  padding: 30px 0;
-}
+$base-font-family: Charter, Georgia, Helvetica, Arial, sans-serif;
+$base-font-size: 14px;
+$small-font-size: $base-font-size * 0.875;
+$base-line-height: 1.7;
 
-/* 4) 超大屏稍微更宽，但不铺满 */
-@media screen and (min-width: 1600px) {
-  .wrapper {
-    max-width: 1300px !important;
+$spacing-unit: 30px;
+
+$text-color: #111;
+$background-color: #fdfdfd;
+$brand-color: #2a7ae2;
+
+$grey-color: #828282;
+$grey-color-light: lighten($grey-color, 40%);
+$grey-color-dark: darken($grey-color, 25%);
+
+$on-mobile: 500px;
+$on-laptop: 800px;
+
+@mixin media-query($device) {
+  @media screen and (max-width: $device) {
+    @content;
   }
 }
 
-/* 5) 小屏 */
-@media screen and (max-width: 800px) {
-  .wrapper {
-    max-width: 95% !important;
-    padding-left: 16px;
-    padding-right: 16px;
-  }
-}
-
-.page-content {
-  justify-content: center !important;
-}
+// Import partials from `sass_dir` (defaults to `_sass`)
+@import "base", "layout", "site", "work", "blog", "post", "404";
