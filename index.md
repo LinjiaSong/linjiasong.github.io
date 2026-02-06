@@ -54,25 +54,22 @@ layout: home
 <font color="black" face="微软正黑" size=3>1. Real Activities and Uncertainty: Evidence from Real Estate Market (with Jie Cao, Sheridan Titman, and Xintong Zhan)</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2. A Conditional Factor Model for REIT Returns (with Jie Cao, and Xintong Zhan)</font>
+<font color="black" face="微软正黑" size=3>2. Opioid Crisis Along the Supply Chain (with Jie Cao, Xintong Zhan, and Weiming Zhang) </font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>3. Opioid Crisis Along the Supply Chain (with Jie Cao, Xintong Zhan, and Weiming Zhang) </font>
+<font color="black" face="微软正黑" size=3>3. Forecasting Corporate Bond Index Returns with Firm Characteristics and Macro Variables  (with Jie Cao, Ruijing Yang, and Xintong Zhan)</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>4. Forecasting Corporate Bond Index Returns with Firm Characteristics and Macro Variables  (with Jie Cao, Ruijing Yang, and Xintong Zhan)</font>
+<font color="black" face="微软正黑" size=3>4. Media Coverage and Option Returns (with Ruijing Yang)</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>5. Media Coverage and Option Returns (with Ruijing Yang)</font>
+<font color="black" face="微软正黑" size=3>5. Demand Shocks and Product Quality: Evidence from Hospitals (with Jie Cao, Lei Lei, and Xinong Zhan)</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>6. Demand Shocks and Product Quality: Evidence from Hospitals (with Jie Cao, Lei Lei, and Xinong Zhan)</font>
+<font color="black" face="微软正黑" size=3>6. The Cost of Care: Paid Family Leave and Bank Loan Pricing (with Si Li, Jianglong Liu, and Xintong Zhan)</font>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>7. The Cost of Care: Paid Family Leave and Bank Loan Pricing (with Si Li, Jianglong Liu, and Xintong Zhan)</font>
-</p>
-<p>
-<font color="black" face="微软正黑" size=3>8. Information Processing Costs and Supply Chain Formation: Evidence from Local IPOs (with Jie Cao, Michael Hertzel, Xinqi Yu, and Xintong Zhan)</font>
+<font color="black" face="微软正黑" size=3>7. Information Processing Costs and Supply Chain Formation: Evidence from Local IPOs (with Jie Cao, Michael Hertzel, Xinqi Yu, and Xintong Zhan)</font>
 </p>
 
 
@@ -88,12 +85,18 @@ layout: home
 <p>
 <font color="black" face="微软正黑" size=3>- ETF Research Academy Award of the Paris-Dauphine House of Finance</font>
 </p>
+<p>
+<font color="black" face="微软正黑" size=3>3. A Conditional Factor Model for REIT Returns (with Jie Cao, and Xintong Zhan), 2026, Real Estate Economics</font>
+</p>
 
 <p>
 <b><font color="SteelBlue" face="微软正黑" size=4 class="aa">Presentations (*by coauthor)</font></b>
 </p>
 <p>
-<font color="black" face="微软正黑" size=3>2025: Alliance for Research on Corporate Sustainability at HEC Paris, Conference on Asia-Pacific Financial Markets (CAFM, Seoul), MRS International Risk Conference, SFS Cavalcade AP*, FMA Annual Meeting*  </font>
+<font color="black" face="微软正黑" size=3>2026: The Chinese University of Hong Kong  </font>
+</p>
+<p>
+<font color="black" face="微软正黑" size=3>2025: Alliance for Research on Corporate Sustainability at HEC Paris, Conference on Asia-Pacific Financial Markets (CAFM, Seoul), MRS International Risk Conference, SFS Cavalcade AP*, FMA Annual Meeting*, FMA Asia-Pacific*  </font>
 </p>
 <p>
 <font color="black" face="微软正黑" size=3>2024: Xiamen University, Chinese Finance Annual Meeting, East China Normal University*, Hong Kong Institute for Monetary and Financial Research*</font>
