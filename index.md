@@ -6,26 +6,27 @@ layout: home
   body {
     font-family: 'Segoe UI', 'Microsoft JhengHei', sans-serif;
     font-weight: 500;
-    line-height: 1.6;
+    font-size: 17px;   /* 🔥 整体字体变大 */
+    line-height: 1.7;  /* 🔥 更舒展 */
     color: #222;
   }
 
   h1 {
-    font-size: 28px;
+    font-size: 30px;   /* 🔥 主标题更大 */
     font-weight: 600;
-    margin-bottom: 5px;
+    margin-bottom: 8px;
   }
 
   h2 {
-    font-size: 18px;
+    font-size: 20px;   /* 🔥 小标题更大 */
     font-weight: 600;
     color: SteelBlue;
-    margin-top: 30px;
-    margin-bottom: 10px;
+    margin-top: 32px;
+    margin-bottom: 12px;
   }
 
   .subtitle {
-    font-size: 18px;
+    font-size: 19px;
     font-weight: 500;
   }
 
@@ -39,13 +40,13 @@ layout: home
   }
 
   .profile-img {
-    width: 240px;
+    width: 260px;   /* 图片稍微大一点 */
     border-radius: 4px;
     margin-bottom: 15px;
   }
 
   .section p {
-    margin: 6px 0;
+    margin: 8px 0;
   }
 </style>
 
@@ -105,9 +106,9 @@ Please feel free to reach out if you'd like to connect.
 <div class="section">
 <h2>Presentations (*by coauthor)</h2>
 <p>2026: The Chinese University of Hong Kong</p>
-<p>2025: Alliance for Research on Corporate Sustainability at HEC Paris, Conference on Asia-Pacific Financial Markets (CAFM, Seoul), MRS International Risk Conference, SFS Cavalcade AP*, FMA Annual Meeting*, FMA Asia-Pacific*</p>
+<p>2025: Alliance for Research on Corporate Sustainability at HEC Paris, CAFM (Seoul), MRS International Risk Conference, SFS Cavalcade AP*, FMA Annual Meeting*, FMA Asia-Pacific*</p>
 <p>2024: Xiamen University, Chinese Finance Annual Meeting, East China Normal University*, Hong Kong Institute for Monetary and Financial Research*</p>
-<p>2023: AsRes-GCREC Conference, China International Conference in Finance (CICF)*, The Federal Reserve Board*, University of Sussex*, University of Minnesota*, Virtual Derivatives Workshop*</p>
+<p>2023: AsRes-GCREC, CICF*, The Federal Reserve Board*, University of Sussex*, University of Minnesota*, Virtual Derivatives Workshop*</p>
 <p>2022: CIRF; The 4th Derivatives Youth Forum, APAD Annual Conference, ASSA-AREUEA Annual Meeting, FMCG</p>
 <p>2021: AREUEA-International Annual Meeting, APAD Annual Conference</p>
 </div>
