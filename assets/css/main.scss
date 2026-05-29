@@ -10,16 +10,16 @@
 
 $base-url: "{{ site.baseurl }}";
 
-$base-font-family: Charter, Georgia, Helvetica, Arial, sans-serif;
-$base-font-size: 14px;
+$base-font-family: "Segoe UI", "Noto Sans", "Microsoft YaHei", Arial, sans-serif;
+$base-font-size: 16px;
 $small-font-size: $base-font-size * 0.875;
 $base-line-height: 1.7;
 
 $spacing-unit: 30px;
 
-$text-color: #111;
-$background-color: #fdfdfd;
-$brand-color: #2a7ae2;
+$text-color: #16201f;
+$background-color: #f7f9f6;
+$brand-color: #1f6f78;
 
 $grey-color: #828282;
 $grey-color-light: lighten($grey-color, 40%);
@@ -41,42 +41,544 @@ $on-laptop: 800px;
 @import "base", "layout", "site", "work", "blog", "post", "404";
 
 /* =====================================================
-   FINAL LAYOUT OVERRIDE
-   Centered, not too wide, Minima-safe
+   Polished academic homepage
    ===================================================== */
 
-/* 主内容容器（Minima 默认使用 .wrapper） */
-.wrapper {
-  max-width: 1100px;          /* ← 控制整体宽度（推荐 1050–1200） */
-  margin-left: auto;
-  margin-right: auto;         /* ← 强制居中（关键） */
-  padding-left: 24px;
-  padding-right: 24px;
+* {
   box-sizing: border-box;
 }
 
-/* 有些页面可能使用 container，兜底 */
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  color: $text-color;
+  background:
+    linear-gradient(180deg, rgba(255, 255, 255, 0.86), rgba(247, 249, 246, 0.95) 34rem),
+    $background-color;
+  font-weight: 400;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Georgia", "Times New Roman", "Songti SC", serif;
+  letter-spacing: 0;
+}
+
+a {
+  color: $brand-color;
+  transition: color 160ms ease, border-color 160ms ease, background 160ms ease, transform 160ms ease;
+}
+
+a:hover {
+  color: #9a542f;
+}
+
+.wrapper,
 .container {
-  max-width: 1100px;
+  width: min(100%, 1120px);
+  max-width: 1120px;
   margin-left: auto;
   margin-right: auto;
-  padding-left: 24px;
-  padding-right: 24px;
-  box-sizing: border-box;
+  padding-left: 28px;
+  padding-right: 28px;
 }
 
-/* 页面内容上下留白 */
 .page-content {
   width: 100%;
-  padding: 30px 0;
+  padding: 46px 0 58px;
 }
 
-/* 小屏自适应 */
+.site-header {
+  position: sticky;
+  top: 0;
+  z-index: 20;
+  min-height: 70px;
+  border-bottom: 1px solid rgba(22, 32, 31, 0.1);
+  background: rgba(255, 255, 255, 0.92);
+  backdrop-filter: blur(18px);
+  box-shadow: 0 10px 26px rgba(28, 48, 44, 0.05);
+}
+
+.site-header .wrapper {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 24px;
+}
+
+.site-title {
+  float: none;
+  display: inline-flex;
+  align-items: center;
+  line-height: 1;
+  letter-spacing: 0;
+}
+
+.site-title img {
+  width: min(320px, 48vw);
+  height: auto;
+}
+
+.site-nav {
+  float: none;
+  line-height: 1;
+}
+
+.site-nav .page-link {
+  border-bottom: 1px solid transparent;
+  color: rgba(22, 32, 31, 0.82);
+  font-size: 0.95rem;
+  font-weight: 600;
+  line-height: 1.3;
+  padding-bottom: 4px;
+}
+
+.site-nav .page-link:hover {
+  border-color: #9a542f;
+  color: #9a542f;
+  text-decoration: none;
+}
+
+.home {
+  display: grid;
+  gap: 44px;
+}
+
+.academic-hero {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 320px;
+  align-items: end;
+  gap: 54px;
+  padding: 30px 0 20px;
+}
+
+.eyebrow,
+.section-kicker,
+.panel-label,
+.research-focus > p {
+  color: #9a542f;
+  font-size: 0.78rem;
+  font-weight: 800;
+  letter-spacing: 0.12em;
+  margin-bottom: 12px;
+  text-transform: uppercase;
+}
+
+.hero-copy h1 {
+  color: #102120;
+  font-size: 3.4rem;
+  font-weight: 700;
+  line-height: 1.05;
+  margin-bottom: 18px;
+}
+
+.hero-copy h1 span {
+  display: block;
+  color: #315a54;
+  font-size: 2.3rem;
+  margin-top: 12px;
+}
+
+.hero-subtitle {
+  color: #243b39;
+  font-size: 1.22rem;
+  font-weight: 700;
+  line-height: 1.55;
+  margin-bottom: 14px;
+  max-width: 720px;
+}
+
+.hero-intro {
+  color: rgba(22, 32, 31, 0.76);
+  font-size: 1.02rem;
+  line-height: 1.8;
+  margin-bottom: 28px;
+  max-width: 740px;
+}
+
+.hero-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+}
+
+.button-link {
+  align-items: center;
+  border: 1px solid rgba(31, 111, 120, 0.26);
+  border-radius: 999px;
+  color: #1f6f78;
+  display: inline-flex;
+  font-weight: 800;
+  justify-content: center;
+  min-height: 44px;
+  min-width: 108px;
+  padding: 0 18px;
+}
+
+.button-link:hover {
+  background: rgba(31, 111, 120, 0.08);
+  color: #154f55;
+  text-decoration: none;
+  transform: translateY(-1px);
+}
+
+.button-link.primary {
+  background: #1f6f78;
+  border-color: #1f6f78;
+  color: #ffffff;
+  box-shadow: 0 12px 26px rgba(31, 111, 120, 0.18);
+}
+
+.button-link.primary:hover {
+  background: #185b63;
+  color: #ffffff;
+}
+
+.hero-profile {
+  display: grid;
+  gap: 18px;
+}
+
+.profile-img {
+  aspect-ratio: 4 / 5;
+  border: 1px solid rgba(22, 32, 31, 0.12);
+  border-radius: 8px;
+  box-shadow: 0 24px 52px rgba(21, 40, 38, 0.16);
+  display: block;
+  object-fit: cover;
+  width: 100%;
+}
+
+.contact-panel {
+  background: #ffffff;
+  border: 1px solid rgba(22, 32, 31, 0.1);
+  border-radius: 8px;
+  box-shadow: 0 16px 34px rgba(27, 47, 43, 0.08);
+  padding: 20px;
+}
+
+.contact-panel a {
+  display: block;
+  font-weight: 700;
+  margin-top: 8px;
+  overflow-wrap: anywhere;
+}
+
+.research-focus {
+  align-items: start;
+  border-bottom: 1px solid rgba(22, 32, 31, 0.1);
+  border-top: 1px solid rgba(22, 32, 31, 0.1);
+  display: grid;
+  gap: 18px;
+  grid-template-columns: 180px 1fr;
+  padding: 26px 0;
+}
+
+.research-focus ul {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  list-style: none;
+  margin: 0;
+}
+
+.research-focus li {
+  background: #ffffff;
+  border: 1px solid rgba(31, 111, 120, 0.18);
+  border-radius: 999px;
+  color: #243b39;
+  font-weight: 700;
+  padding: 9px 14px;
+}
+
+.content-section {
+  display: grid;
+  gap: 34px;
+  grid-template-columns: 230px minmax(0, 1fr);
+  padding: 18px 0;
+}
+
+.section-heading {
+  position: sticky;
+  top: 102px;
+  align-self: start;
+}
+
+.section-heading h2 {
+  color: #102120;
+  font-size: 1.72rem;
+  font-weight: 700;
+  line-height: 1.18;
+  margin-bottom: 0;
+}
+
+.timeline-list,
+.paper-list,
+.publication-list,
+.presentation-grid,
+.grant-list {
+  min-width: 0;
+}
+
+.timeline-list {
+  display: grid;
+  gap: 14px;
+}
+
+.timeline-item {
+  border-left: 3px solid rgba(31, 111, 120, 0.28);
+  padding-left: 18px;
+}
+
+.timeline-item span,
+.presentation-grid span {
+  color: #1f6f78;
+  display: block;
+  font-size: 0.92rem;
+  font-weight: 800;
+  margin-bottom: 4px;
+}
+
+.timeline-item p,
+.presentation-grid p,
+.grant-list p {
+  color: rgba(22, 32, 31, 0.82);
+  line-height: 1.72;
+  margin-bottom: 0;
+}
+
+.paper-list {
+  counter-reset: papers;
+  display: grid;
+  gap: 12px;
+  list-style: none;
+  margin: 0;
+}
+
+.paper-list li {
+  background: #ffffff;
+  border: 1px solid rgba(22, 32, 31, 0.09);
+  border-radius: 8px;
+  box-shadow: 0 12px 28px rgba(27, 47, 43, 0.06);
+  color: #152321;
+  counter-increment: papers;
+  font-weight: 760;
+  line-height: 1.55;
+  padding: 18px 20px 18px 62px;
+  position: relative;
+}
+
+.paper-list li::before {
+  align-items: center;
+  background: rgba(31, 111, 120, 0.1);
+  border-radius: 50%;
+  color: #1f6f78;
+  content: counter(papers);
+  display: flex;
+  font-size: 0.86rem;
+  font-weight: 900;
+  height: 32px;
+  justify-content: center;
+  left: 18px;
+  position: absolute;
+  top: 18px;
+  width: 32px;
+}
+
+.paper-list li span {
+  color: rgba(22, 32, 31, 0.62);
+  display: block;
+  font-weight: 500;
+  margin-top: 6px;
+}
+
+.publication-list {
+  display: grid;
+  gap: 14px;
+}
+
+.publication-list article {
+  background: #ffffff;
+  border: 1px solid rgba(22, 32, 31, 0.09);
+  border-radius: 8px;
+  padding: 20px 22px;
+}
+
+.publication-list p {
+  color: rgba(22, 32, 31, 0.76);
+  line-height: 1.7;
+  margin-bottom: 6px;
+}
+
+.publication-list p:last-child {
+  margin-bottom: 0;
+}
+
+.pub-title {
+  color: #12201f !important;
+  font-size: 1.04rem;
+  font-weight: 850;
+}
+
+.award-note {
+  border-left: 3px solid #9a542f;
+  color: #7e4528 !important;
+  font-weight: 700;
+  padding-left: 12px;
+}
+
+.presentation-grid {
+  display: grid;
+  gap: 14px;
+}
+
+.presentation-grid > div {
+  display: grid;
+  gap: 20px;
+  grid-template-columns: 72px minmax(0, 1fr);
+}
+
+.presentation-note {
+  color: rgba(22, 32, 31, 0.58);
+  font-size: 0.92rem;
+  grid-column: 2;
+  margin-bottom: 0;
+}
+
+.grant-list {
+  background: #ffffff;
+  border: 1px solid rgba(22, 32, 31, 0.09);
+  border-radius: 8px;
+  padding: 20px 22px;
+}
+
+.grant-list p + p {
+  border-top: 1px solid rgba(22, 32, 31, 0.08);
+  margin-top: 14px;
+  padding-top: 14px;
+}
+
+.site-footer {
+  background: #102120;
+  border-top: 0;
+  color: rgba(255, 255, 255, 0.72);
+}
+
+.site-footer .footer-col-wrapper {
+  color: rgba(255, 255, 255, 0.72);
+}
+
+.site-footer h4 {
+  color: rgba(255, 255, 255, 0.92);
+  font-family: $base-font-family;
+  font-weight: 800;
+  letter-spacing: 0.08em;
+}
+
+.site-footer a {
+  color: #c8e1df;
+}
+
+.site-footer a:hover {
+  color: #ffffff;
+}
+
+@media screen and (max-width: 900px) {
+  .academic-hero,
+  .content-section {
+    grid-template-columns: 1fr;
+  }
+
+  .academic-hero {
+    gap: 30px;
+  }
+
+  .hero-profile {
+    max-width: 360px;
+  }
+
+  .section-heading {
+    position: static;
+  }
+
+  .presentation-note {
+    grid-column: auto;
+  }
+}
+
 @media screen and (max-width: 800px) {
   .wrapper,
   .container {
-    max-width: 95%;
-    padding-left: 16px;
-    padding-right: 16px;
+    max-width: 100%;
+    padding-left: 18px;
+    padding-right: 18px;
+  }
+
+  .page-content {
+    padding: 30px 0 44px;
+  }
+}
+
+@media screen and (max-width: 500px) {
+  .site-header {
+    min-height: 58px;
+    padding-bottom: 8px;
+    padding-top: 8px;
+  }
+
+  .site-header .wrapper {
+    min-height: 42px;
+  }
+
+  .site-title img {
+    width: min(242px, 68vw);
+  }
+
+  .site-nav {
+    right: 18px;
+    top: 14px;
+  }
+
+  .site-nav .menu {
+    box-shadow: 0 14px 28px rgba(27, 47, 43, 0.12);
+  }
+
+  .academic-hero {
+    padding-top: 18px;
+  }
+
+  .hero-copy h1 {
+    font-size: 2.45rem;
+  }
+
+  .hero-copy h1 span {
+    font-size: 1.75rem;
+  }
+
+  .hero-subtitle {
+    font-size: 1.08rem;
+  }
+
+  .button-link {
+    flex: 1 1 118px;
+  }
+
+  .research-focus {
+    grid-template-columns: 1fr;
+  }
+
+  .paper-list li {
+    padding-left: 54px;
+  }
+
+  .presentation-grid > div {
+    grid-template-columns: 1fr;
+    gap: 4px;
   }
 }

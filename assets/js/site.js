@@ -2,6 +2,7 @@
  * Menu
  */
  $("a.menu-icon").on("click", function(event) {
+   event.preventDefault();
    var w = $(".menu");
 
    w.css({

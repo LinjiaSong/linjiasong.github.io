@@ -3,9 +3,9 @@
 
 
 
-title: Linjia
+title: Linjia Song
 description: >- # this means to ignore newlines until "baseurl:"
-  Linjia Song.
+  Linjia Song is an Assistant Professor of Finance at Xiamen University.
 # baseurl: "/Lin" # the subpath of the site  #bay
 url: "https://linjiasong.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile_picture.jpg
@@ -15,18 +15,24 @@ header:
   pages:
     - name: Home
       slug: /
-   # - name: CV
-   #- name: Research
+    - name: Research
+      slug: /#research
+    - name: Publications
+      slug: /#publications
+    - name: Contact
+      slug: /#contact
 
 footer:
   show_powered_by: false
   contact:
     - name: Email
-      value: songlinjia@hotmail.com
-      link: mailto:songlinjia@hotmail.com
+      value: songlinjia@xmu.edu.cn
+      link: mailto:songlinjia@xmu.edu.cn
   follow:
     - name: LinkedIn
       link: https://hk.linkedin.com/in/songlinjia
+    - name: GitHub
+      link: https://github.com/LinjiaSong
 
 
 # Build settings
