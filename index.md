@@ -88,7 +88,8 @@ title: Home
       </ul>
     </div>
 
-    <p class="hero-subtitle">Assistant Professor of Finance at the School of Management, Xiamen University.</p>
+    <p class="hero-subtitle">Assistant Professor of Finance </p>
+    <p class="hero-subtitle">School of Management, Xiamen University.</p>
     <p class="hero-intro">
       My research interests are in empirical asset pricing, derivatives, real estate finance, and supply chain.
       Feel free to connect.
