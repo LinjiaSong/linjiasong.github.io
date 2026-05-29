@@ -177,7 +177,7 @@ title: Home
       (Washington D.C)* </p></div>
     <div><span>2025</span><p>Alliance for Research on Corporate Sustainability (Paris), Annual Conference on Asia-Pacific Financial Markets (Seoul), MRS International Risk Conference (Boston, Online), SFS Cavalcade AP (Beijing)*, FMA Annual Meeting (Vancouver)*, FMA Asia-Pacific (Taipei)*</p></div>
     <div><span>2024</span><p>Xiamen University, Chinese Finance Annual Meeting, East China Normal University*, Hong Kong Institute for Monetary and Financial Research*</p></div>
-    <div><span>2023</span><p>AsRes-GCREC(Hong Kong),  China International Conference in Finance (CICF)*, The Federal Reserve Board*, University of Sussex*, University of Minnesota*, Virtual Derivatives Workshop*</p></div>
+    <div><span>2023</span><p>AsRes-GCREC(Hong Kong),  China International Conference in Finance (CICF, Shanghai)*, The Federal Reserve Board*, University of Sussex*, University of Minnesota*, Virtual Derivatives Workshop*</p></div>
     <div><span>2022</span><p>The 4th Derivatives Youth Forum (Suzhou, Online), APAD Annual Conference (Busan, Online), ASSA-AREUEA Annual Meeting (Boston, Online), FMCG</p></div>
     <div><span>2021</span><p>AREUEA-International Annual Meeting (Singapore, Online), APAD Annual Conference (Busan, Online)</p></div>
   </div>
