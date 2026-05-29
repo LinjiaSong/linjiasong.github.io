@@ -86,7 +86,7 @@ title: Home
     <article>
       <p class="pub-title">Smart Beta, "Smarter" Flows</p>
       <p>with Jie Cao, Jason Hsu, Zhanbing Xiao, and Xintong Zhan. <em>Journal of Empirical Finance</em>, 2025.</p>
-      <p class="award-note">ETF Research Academy Award of the Paris-Dauphine House of Finance</p>
+      <p>ETF Research Academy Award of the Paris-Dauphine House of Finance</p>
     </article>
     <article>
       <p class="pub-title">A Conditional Factor Model for REIT Returns</p>
