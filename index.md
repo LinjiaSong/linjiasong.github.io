@@ -173,12 +173,13 @@ title: Home
     <h2>Presentations</h2>
   </div>
   <div class="presentation-grid">
-    <div><span>2026</span><p>The Chinese University of Hong Kong</p></div>
-    <div><span>2025</span><p>Alliance for Research on Corporate Sustainability at HEC Paris, CAFM (Seoul), MRS International Risk Conference, SFS Cavalcade AP*, FMA Annual Meeting*, FMA Asia-Pacific*</p></div>
+    <div><span>2026</span><p>The Chinese University of Hong Kong, AAA GNP Midyear Conference (New Hampshire)*, AREUEA National 
+      (Washington D.C)* </p></div>
+    <div><span>2025</span><p>Alliance for Research on Corporate Sustainability (Paris), Annual Conference on Asia-Pacific Financial Markets (Seoul), MRS International Risk Conference (Boston, Online), SFS Cavalcade AP (Beijing)*, FMA Annual Meeting (Vancouver)*, FMA Asia-Pacific (Taipei)*</p></div>
     <div><span>2024</span><p>Xiamen University, Chinese Finance Annual Meeting, East China Normal University*, Hong Kong Institute for Monetary and Financial Research*</p></div>
-    <div><span>2023</span><p>AsRes-GCREC, CICF*, The Federal Reserve Board*, University of Sussex*, University of Minnesota*, Virtual Derivatives Workshop*</p></div>
-    <div><span>2022</span><p>CIRF; The 4th Derivatives Youth Forum, APAD Annual Conference, ASSA-AREUEA Annual Meeting, FMCG</p></div>
-    <div><span>2021</span><p>AREUEA-International Annual Meeting, APAD Annual Conference</p></div>
+    <div><span>2023</span><p>AsRes-GCREC(Hong Kong),  China International Conference in Finance (CICF)*, The Federal Reserve Board*, University of Sussex*, University of Minnesota*, Virtual Derivatives Workshop*</p></div>
+    <div><span>2022</span><p>The 4th Derivatives Youth Forum (Suzhou, Online), APAD Annual Conference (Busan, Online), ASSA-AREUEA Annual Meeting (Boston, Online), FMCG</p></div>
+    <div><span>2021</span><p>AREUEA-International Annual Meeting (Singapore, Online), APAD Annual Conference (Busan, Online)</p></div>
   </div>
   <p class="presentation-note">* Presented by coauthor.</p>
 </section>
