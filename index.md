@@ -3,6 +3,31 @@ layout: home
 title: Home
 ---
 
+<style>
+  /* Reduce blank space above the name */
+  .academic-hero {
+    padding-top: 0.8rem !important;
+  }
+
+  .hero-copy h1 {
+    margin-top: 0;
+  }
+
+  /* Enlarge education institution/degree text */
+  .timeline-item p {
+    font-size: 1.15rem;
+    font-weight: 650;
+    line-height: 1.65;
+  }
+
+  /* Enlarge presentation/conference text */
+  .presentation-grid p {
+    font-size: 1.12rem;
+    font-weight: 650;
+    line-height: 1.65;
+  }
+</style>
+
 <section class="academic-hero" id="top">
   <div class="hero-copy">
     <p class="eyebrow"></p>
