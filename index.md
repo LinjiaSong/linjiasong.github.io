@@ -6,11 +6,57 @@ title: Home
 <style>
   /* Reduce blank space above the name */
   .academic-hero {
-    padding-top: 0.8rem !important;
+    padding-top: 0 !important;
+    margin-top: -1.2rem !important;
+    align-items: flex-start;
+    gap: 2rem;
   }
 
+  /* Remove extra top margin from the name */
   .hero-copy h1 {
-    margin-top: 0;
+    margin-top: 0 !important;
+    margin-bottom: 0.6rem;
+  }
+
+  /* Make the profile photo slightly smaller */
+  .profile-img {
+    max-width: 230px !important;
+    width: 100%;
+    height: auto;
+  }
+
+  .hero-profile {
+    max-width: 260px;
+  }
+
+  /* Put research areas directly under the name */
+  .hero-research-areas {
+    margin: 0.4rem 0 1rem 0;
+  }
+
+  .hero-research-areas p {
+    margin: 0 0 0.35rem 0;
+    font-size: 0.82rem;
+    font-weight: 700;
+    letter-spacing: 0.08em;
+    text-transform: uppercase;
+    color: var(--muted-text, #6b7280);
+  }
+
+  .hero-research-areas ul {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.45rem;
+    list-style: none;
+    padding: 0;
+    margin: 0;
+  }
+
+  .hero-research-areas li {
+    font-size: 0.92rem;
+    padding: 0.32rem 0.65rem;
+    border-radius: 999px;
+    background: rgba(0, 0, 0, 0.04);
   }
 
   /* Enlarge education institution/degree text */
@@ -30,8 +76,18 @@ title: Home
 
 <section class="academic-hero" id="top">
   <div class="hero-copy">
-    <p class="eyebrow"></p>
     <h1>Linjia (Alex) Song <span>宋琳甲</span></h1>
+
+    <div class="hero-research-areas" aria-label="Research areas">
+      <p>Research areas</p>
+      <ul>
+        <li>Empirical Asset Pricing</li>
+        <li>Derivatives</li>
+        <li>Real Estate Finance</li>
+        <li>Supply Chain</li>
+      </ul>
+    </div>
+
     <p class="hero-subtitle">Assistant Professor of Finance at the School of Management, Xiamen University.</p>
     <p class="hero-intro">
       My research interests are in empirical asset pricing, derivatives, real estate finance, and supply chain.
@@ -53,16 +109,6 @@ title: Home
       <a href="mailto:songlinjia@hotmail.com">songlinjia@hotmail.com</a>
     </div>
   </aside>
-</section>
-
-<section class="research-focus" aria-label="Research focus">
-  <p>Research areas</p>
-  <ul>
-    <li>Empirical Asset Pricing</li>
-    <li>Derivatives</li>
-    <li>Real Estate Finance</li>
-    <li>Supply Chain</li>
-  </ul>
 </section>
 
 <section class="content-section" id="education">
