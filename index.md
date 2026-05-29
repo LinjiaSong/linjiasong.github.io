@@ -5,12 +5,12 @@ title: Home
 
 <section class="academic-hero" id="top">
   <div class="hero-copy">
-    <p class="eyebrow">Finance scholar · Xiamen University</p>
+    <p class="eyebrow"></p>
     <h1>Linjia (Alex) Song <span>宋琳甲</span></h1>
     <p class="hero-subtitle">Assistant Professor of Finance at the School of Management, Xiamen University.</p>
     <p class="hero-intro">
-      I study empirical asset pricing, derivatives, real estate finance, and supply chain finance.
-      My work connects financial markets with firms' real decisions, information flows, and risk.
+      My research interests are in empirical asset pricing, derivatives, real estate finance, and supply chain.
+      Feel free to connect.
     </p>
 
     <div class="hero-actions" aria-label="Profile links">
