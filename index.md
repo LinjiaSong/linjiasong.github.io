@@ -137,9 +137,9 @@ title: Home
   <ol class="paper-list">
     <li>Real Activities and Uncertainty: Evidence from Real Estate Market <span>with Jie Cao, Sheridan Titman, and Xintong Zhan</span></li>
     <li>Opioid Crisis Along the Supply Chain <span>with Jie Cao, Xintong Zhan, and Weiming Zhang</span></li>
-    <li>Forecasting Corporate Bond Index Returns with Firm Characteristics and Macro Variables <span>with Jie Cao, Ruijing Yang, and Xintong Zhan</span></li>
+    <li>Firm and Macro Information in Corporate Bond Risk Premium <span>with Jie Cao, Ruijing Yang, and Xintong Zhan</span></li>
     <li>Media Coverage and Option Returns <span>with Ruijing Yang</span></li>
-    <li>Demand Shocks and Product Quality: Evidence from Hospitals <span>with Jie Cao, Lei Lei, and Xinong Zhan</span></li>
+    <li>Demand Shocks and the Financing of Product Quality: Evidence from Hospitals <span>with Jie Cao, Lei Lei, and Xinong Zhan</span></li>
     <li>The Cost of Care: Paid Family Leave and Bank Loan Pricing <span>with Si Li, Jianglong Liu, and Xintong Zhan</span></li>
     <li>Information Processing Costs and Supply Chain Formation: Evidence from Local IPOs <span>with Jie Cao, Michael Hertzel, Xinqi Yu, and Xintong Zhan</span></li>
   </ol>
