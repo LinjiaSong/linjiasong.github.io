@@ -131,7 +131,6 @@ title: Home
 
 <section class="content-section" id="research">
   <div class="section-heading">
-    <p class="section-kicker">Current projects</p>
     <h2>Working Papers</h2>
   </div>
   <ol class="paper-list">
@@ -147,7 +146,6 @@ title: Home
 
 <section class="content-section" id="publications">
   <div class="section-heading">
-    <p class="section-kicker">Published work</p>
     <h2>Publications</h2>
   </div>
   <div class="publication-list">
@@ -169,7 +167,6 @@ title: Home
 
 <section class="content-section" id="presentations">
   <div class="section-heading">
-    <p class="section-kicker">Seminars and conferences</p>
     <h2>Presentations</h2>
   </div>
   <div class="presentation-grid">
@@ -186,7 +183,6 @@ title: Home
 
 <section class="content-section grants-section" id="grants">
   <div class="section-heading">
-    <p class="section-kicker">Support</p>
     <h2>Research Grants</h2>
   </div>
   <div class="grant-list">
