@@ -114,7 +114,6 @@ title: Home
 
 <section class="content-section" id="education">
   <div class="section-heading">
-    <p class="section-kicker">Background</p>
     <h2>Education</h2>
   </div>
   <div class="timeline-list">
