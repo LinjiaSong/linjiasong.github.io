@@ -23,8 +23,8 @@ title: Home
 <section class="content-section" id="education" aria-labelledby="education-heading">
   <h2 id="education-heading">Education</h2>
   <dl class="dated-list education-list">
-    <div><dt>2018–2022</dt><dd><span class="institution">The Chinese University of Hong Kong</span><br>PhD in Business Administration <span class="date-detail">(September 2018–July 2022)</span></dd></div>
-    <div><dt>2014–2018</dt><dd><span class="institution">Xi'an Jiaotong University</span><br>BSc in Economics <span class="date-detail">(September 2014–July 2018)</span></dd></div>
+    <div><dt>2018–2022</dt><dd><span class="institution">The Chinese University of Hong Kong</span><br>PhD in Business Administration <span class="date-detail"></span></dd></div>
+    <div><dt>2014–2018</dt><dd><span class="institution">Xi'an Jiaotong University</span><br>BSc in Economics <span class="date-detail"></span></dd></div>
   </dl>
 </section>
 
