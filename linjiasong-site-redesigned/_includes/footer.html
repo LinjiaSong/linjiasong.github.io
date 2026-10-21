@@ -1,0 +1,14 @@
+<footer class="site-footer">
+  <div class="wrapper">
+    <p>{{ site.title }} · School of Management, Xiamen University</p>
+    <ul class="footer-links" aria-label="Contact and social links">
+      {% for contact in site.footer.contact %}
+        <li><a href="{{ contact.link }}" id="{{ contact.name | downcase }}-link">{{ contact.name }}</a></li>
+      {% endfor %}
+      {% for follow in site.footer.follow %}
+        <li><a href="{{ follow.link }}" rel="noopener noreferrer" target="_blank">{{ follow.name }}</a></li>
+      {% endfor %}
+    </ul>
+  </div>
+</footer>
+{% include wechat-widget.html %}
