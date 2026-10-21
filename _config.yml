@@ -43,6 +43,9 @@ plugins:
 
 # Excluded items
 exclude:
+  - linjiasong-site-redesigned/
+  - work.md
+  - _posts/2019-10-26-example-of-blog-post.md
   - .sass-cache/
   - .jekyll-cache/
   - feed.xml
@@ -55,4 +58,4 @@ exclude:
   - vendor/ruby/
 
 # Used for defeating caching
-version: 1
+version: 2

@@ -1,28 +1,12 @@
 <!DOCTYPE html>
-<html>
+<html lang="en">
   {% include head.html %}
-
   <body>
     {% include header.html %}
-
-    <div class="page-content">
-      <div class="wrapper">
-        <div class="home">
-          {% if page.profile_picture %}
-            <img
-              src="{{ page.profile_picture.src | relative_url }}"
-              alt="{{ page.profile_picture.alt }}"
-              class="profilepic"
-            />
-          {% endif %}
-
-          {{ content }}
-        </div>
-      </div>
-    </div>
-
+    <main class="page-content" id="main-content" tabindex="-1">
+      <div class="wrapper home">{{ content }}</div>
+    </main>
     {% include footer.html %}
-
     {% include foot.html %}
   </body>
 </html>
