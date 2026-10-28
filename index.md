@@ -7,7 +7,7 @@ title: Home
   <div class="profile-copy">
     <h1 id="profile-name">Linjia (Alex) Song <span lang="zh">宋琳甲</span></h1>
     <p class="affiliation">Assistant Professor of Finance<br>School of Management, Xiamen University</p>
-    <p class="research-interests">My research interests are in empirical asset pricing, derivatives, real estate finance, and supply chain.</p>
+    <p class="research-interests">My research interests are in empirical asset pricing, derivatives, real estate finance, supply chain, and healthcare finance.</p>
     <div class="profile-contact" id="contact">
       <a href="mailto:songlinjia@xmu.edu.cn">songlinjia@xmu.edu.cn</a>
       <a href="mailto:songlinjia@hotmail.com">songlinjia@hotmail.com</a>
